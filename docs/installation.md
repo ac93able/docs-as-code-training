@@ -1,7 +1,9 @@
 # Installation
  
 This guide explains how to install the product.
- 
+
+![Installation flow](images/installation-flow.svg)
+
 ## Prerequisites
  
 Before installing the product, make sure you have:

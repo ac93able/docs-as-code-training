@@ -3,11 +3,10 @@
 Welcome to our product documentation.
  
 This guide explains how to get started with the product.
-This guide is intended for new users. [^1]
+This guide is intended for new users.
  
-## Before you begin
- 
-Make sure you have an active account and access to the application. 
+![Getting started overview](images/getting-started-overview.svg)
+
  
 ## Next steps
  

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Administration panel</title>
+  <desc id="desc">An administrator panel illustrating user management, roles, and system settings.</desc>
+  <rect width="1200" height="700" fill="#f6f7fb"/>
+  <rect x="95" y="90" width="1010" height="520" rx="26" fill="#ffffff" stroke="#dfe4f8" stroke-width="2"/>
+  <rect x="140" y="150" width="190" height="390" rx="18" fill="#edf3ff"/>
+  <text x="185" y="225" font-size="26" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Admin</text>
+  <rect x="170" y="270" width="130" height="40" rx="10" fill="#dfeeff"/>
+  <text x="195" y="297" font-size="18" fill="#1d3557" font-family="Arial, sans-serif">Users</text>
+  <rect x="170" y="325" width="130" height="40" rx="10" fill="#eafaf1"/>
+  <text x="196" y="352" font-size="18" fill="#1d3557" font-family="Arial, sans-serif">Roles</text>
+  <rect x="170" y="380" width="130" height="40" rx="10" fill="#fff3d9"/>
+  <text x="177" y="407" font-size="18" fill="#1d3557" font-family="Arial, sans-serif">Settings</text>
+  <rect x="390" y="150" width="260" height="160" rx="18" fill="#edf3ff"/>
+  <text x="430" y="210" font-size="26" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Manage users</text>
+  <circle cx="466" cy="255" r="28" fill="#7ea7ff"/>
+  <text x="510" y="263" font-size="22" fill="#1d3557" font-family="Arial, sans-serif">Add and deactivate</text>
+  <rect x="690" y="150" width="260" height="160" rx="18" fill="#eafaf1"/>
+  <text x="735" y="210" font-size="26" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Manage roles</text>
+  <rect x="735" y="235" width="170" height="16" rx="8" fill="#8fddb0"/>
+  <rect x="735" y="265" width="120" height="16" rx="8" fill="#b7eec9"/>
+  <rect x="390" y="340" width="560" height="170" rx="18" fill="#fff3d9"/>
+  <text x="430" y="395" font-size="26" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">System settings</text>
+  <text x="430" y="440" font-size="22" fill="#45658d" font-family="Arial, sans-serif">Security, notifications, and application behavior</text>
+  <rect x="430" y="455" width="210" height="26" rx="13" fill="#f6c453"/>
+</svg>

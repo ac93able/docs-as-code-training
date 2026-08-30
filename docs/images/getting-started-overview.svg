@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Getting started overview</title>
+  <desc id="desc">A simple illustration of a new user starting with account access and planning next steps.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f4f8ff"/>
+      <stop offset="100%" stop-color="#eef9f4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <rect x="80" y="90" width="1040" height="520" rx="28" fill="#ffffff" stroke="#dbe7ff" stroke-width="2"/>
+  <circle cx="250" cy="220" r="90" fill="#dfeeff"/>
+  <circle cx="250" cy="220" r="56" fill="#7ea7ff"/>
+  <path d="M225 220c0-20 18-36 40-36s40 16 40 36-18 36-40 36-40-16-40-36zm-32 124c10-30 46-58 72-58s62 28 72 58" fill="#ffffff"/>
+  <rect x="410" y="180" width="500" height="80" rx="18" fill="#edf3ff"/>
+  <text x="445" y="232" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Active account</text>
+  <rect x="410" y="300" width="500" height="80" rx="18" fill="#eafaf1"/>
+  <text x="445" y="352" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Access to the application</text>
+  <rect x="300" y="430" width="600" height="95" rx="22" fill="#dff5ec"/>
+  <text x="375" y="490" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Next: installation and setup</text>
+  <g transform="translate(905 180)">
+    <rect x="0" y="0" width="120" height="120" rx="20" fill="#ebf8ff"/>
+    <path d="M48 30v42l34 22 34-22V30L82 52 48 30zm34 59l-24-15v29l24 15 24-15v-29l-24 15z" fill="#3b82f6"/>
+  </g>
+</svg>

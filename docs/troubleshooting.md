@@ -1,6 +1,8 @@
 # Troubleshooting
  
 Use this guide to resolve common problems.
+
+![Troubleshooting checklist](images/troubleshooting-checklist.svg)
  
 ## Unable to sign in
  

@@ -1,6 +1,8 @@
 # Administration
  
 Administrators can manage users, roles, and system settings.
+
+![Administration panel overview](images/admin-panel.svg)
  
 ## Manage users
  

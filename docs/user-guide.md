@@ -1,6 +1,8 @@
 # User Guide
  
 This guide explains the basic tasks that users can perform.
+
+![Project dashboard overview](images/user-guide-dashboard.svg)
  
 ## Sign in
  
