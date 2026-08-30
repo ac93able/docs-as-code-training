@@ -13,4 +13,8 @@ Check that:
 ## Application does not start
  
 Try restarting the application.
-If the problem continues, contact your administrator
+If the problem continues, contact your administrator.
+
+## Next steps
+
+If you need to revisit the setup flow, start again with the [Getting Started](getting-started.md) guide.

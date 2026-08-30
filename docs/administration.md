@@ -13,3 +13,7 @@ Use roles to control access to product features.
 ## Manage system settings
  
 System settings control application-wide behavior.
+
+## Next steps
+
+If you encounter issues, continue to the [Troubleshooting](troubleshooting.md) guide.

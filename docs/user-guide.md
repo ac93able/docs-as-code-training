@@ -8,6 +8,8 @@ This guide explains the basic tasks that users can perform.
 2. Enter your username.
 3. Enter your password.
 4. Select **Sign in**.
+
+If you cannot sign in, see the [Troubleshooting](troubleshooting.md) guide for common sign-in issues.
  
 ## Create a project
  
@@ -19,3 +21,7 @@ This guide explains the basic tasks that users can perform.
 ## Manage a project
  
 Project members can update project settings and manage project content.
+
+## Next steps
+
+After you are comfortable with the core tasks, continue to the [Administration](administration.md) guide.

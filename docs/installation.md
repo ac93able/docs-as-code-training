@@ -21,7 +21,9 @@ Before installing the product, make sure you have:
 ## Verify the installation
  
 Open the application and sign in using your account.
+
+If the application does not start or you cannot sign in, see [Troubleshooting](troubleshooting.md).
  
 ## Next steps
  
-After installation, continue with the [Getting Started](getting-started.md) guide.
+After installation, continue with the [User Guide](user-guide.md) guide.
