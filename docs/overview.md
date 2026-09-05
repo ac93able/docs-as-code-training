@@ -6,7 +6,7 @@ This documentation provides guidance for installing, configuring, using, and mai
 
 - [Getting Started](getting-started-guide/getting-started.md) — Begin using the project.
 - [Installation](installation-guide/installation.md) — Install and configure the required components.
-- [User Guide](user-guide/user-guide.md) — Learn how to use the project.
+- [User Guide](user-guide/overview.md) — Learn how to use the project.
 - [Administration](administration-guide/administration.md) — Manage and maintain the project.
 
 ## Reference

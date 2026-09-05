@@ -17,7 +17,7 @@ Use this guide to prepare for installation, complete the initial setup, and find
 
 1. Review the [prerequisites](prerequisites.md).
 2. Complete the [getting started setup](setup.md).
-3. Continue with the [User Guide](../user-guide/user-guide.md) for daily tasks.
+3. Continue with the [User Guide](../user-guide/overview.md) for daily tasks.
 4. If you administer Verve, review the [Administration guide](../administration-guide/administration.md).
  
 ## Next steps

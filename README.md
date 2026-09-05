@@ -13,7 +13,7 @@ Our documentation is organized into the following guides:
 [Installation](docs/installation-guide/installation.md) - Step-by-step instructions for installing Verve. Covers prerequisites, the installation process, and verification steps to ensure everything is working correctly.
 
 ### User Guide
-[User Guide](docs/user-guide/user-guide.md) - A guide to the basic tasks that users can perform. Learn how to sign in, create projects, and manage your work within Verve.
+[User Guide](docs/user-guide/overview.md) - A guide to the basic tasks that users can perform. Learn how to sign in, create projects, and manage your work within Verve.
 
 ### Administration
 [Administration](docs/administration-guide/administration.md) - A guide for administrators covering user management, role management, and system settings. Use this guide to control access and configure Verve.
@@ -25,7 +25,7 @@ Our documentation is organized into the following guides:
 
 1. **New Users**: Start with the [Getting Started](docs/getting-started-guide/getting-started.md) guide to understand what you need before using Verve.
 2. **Installing**: Follow the [Installation](docs/installation-guide/installation.md) guide for setup instructions.
-3. **Daily Tasks**: Refer to the [User Guide](docs/user-guide/user-guide.md) for information on how to use Verve.
+3. **Daily Tasks**: Refer to the [User Guide](docs/user-guide/overview.md) for information on how to use Verve.
 4. **System Administration**: Administrators should review the [Administration](docs/administration-guide/administration.md) guide.
 5. **Issues**: Check the [Troubleshooting](docs/troubleshooting-guide/troubleshooting.md) guide if you encounter problems.
 

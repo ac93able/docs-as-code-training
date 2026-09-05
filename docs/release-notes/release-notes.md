@@ -39,8 +39,8 @@ No release video is included in this version. The Verve guides provide workflow 
 
 - **Getting started:** New users can review the setup path and continue to installation. See the [Getting Started guide](../getting-started-guide/getting-started.md).
 - **Installation:** Administrators can check prerequisites, complete the installation wizard, and verify Verve. See the [Installation guide](../installation-guide/installation.md).
-- **Sign-in:** Users can sign in with a username and password. See [Sign in](../user-guide/user-guide.md#sign-in).
-- **Project management:** Users can create projects, update project settings, and manage project content. See [Create a project](../user-guide/user-guide.md#create-a-project) and [Manage a project](../user-guide/user-guide.md#manage-a-project).
+- **Sign-in:** Users can sign in with a username and password. See [Sign in](../user-guide/overview.md#sign-in).
+- **Project management:** Users can create projects, update project settings, and manage project content. See [Create a project](../user-guide/overview.md#create-a-project) and [Manage a project](../user-guide/overview.md#manage-a-project).
 - **Administration:** Administrators can manage users, roles, and system settings. See the [Administration guide](../administration-guide/administration.md).
 - **Troubleshooting:** Users can find guidance for sign-in failures and Verve startup problems. See the [Troubleshooting guide](../troubleshooting-guide/troubleshooting.md).
 

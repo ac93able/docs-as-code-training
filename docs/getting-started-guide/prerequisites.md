@@ -13,7 +13,7 @@ The [Installation guide](../installation-guide/installation.md#prerequisites) co
 
 ## Required before creating a project
 
-After installation, open Verve and sign in. You need an active account before you can create or manage projects. See [Sign in](../user-guide/user-guide.md#sign-in) for the sign-in steps.
+After installation, open Verve and sign in. You need an active account before you can create or manage projects. See [Sign in](../user-guide/overview.md#sign-in) for the sign-in steps.
 
 ## Administrator considerations
 

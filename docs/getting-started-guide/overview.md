@@ -7,6 +7,6 @@ This getting-started guide provides the shortest path from preparation to first 
 ## What you can do
 
 - Install and verify Verve using the [Installation guide](../installation-guide/installation.md).
-- Sign in and create a project using the [User Guide](../user-guide/user-guide.md).
+- Sign in and create a project using the [User Guide](../user-guide/overview.md).
 - Manage users, roles, and system settings using the [Administration guide](../administration-guide/administration.md).
 - Resolve common sign-in and startup problems using the [Troubleshooting guide](../troubleshooting-guide/troubleshooting.md).

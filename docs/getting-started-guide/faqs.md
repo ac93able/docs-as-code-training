@@ -14,7 +14,7 @@ Open Verve, enter your username and password, and select **Sign in**. If sign-in
 
 ## How do I create a project?
 
-After signing in, open the Projects page, select **Create Project**, enter a project name, and select **Create**. See [Create a project](../user-guide/user-guide.md#create-a-project).
+After signing in, open the Projects page, select **Create Project**, enter a project name, and select **Create**. See [Create a project](../user-guide/overview.md#create-a-project).
 
 ## What should I do if Verve does not start?
 
