@@ -1,32 +1,59 @@
-# Documentation Overview
+# Verve Documentation
 
-This documentation provides topic-based guidance for installing, configuring, using, and maintaining Verve. Each guide is written for a specific audience and task so that you can find the smallest amount of information needed to complete your work.
+Welcome to the Verve documentation hub. Use this page to find the right guide for your role, task, and stage of adoption.
 
-## Contents
+> Looking for the fastest path? Start with [Getting Started](getting-started-guide/getting-started.md) to understand the basics and complete your first setup.
 
-- [Choose a guide](#choose-a-guide)
-- [Get Started](#get-started)
-- [Reference](#reference)
+## Start here
 
-## Choose a guide
+### New to Verve?
 
-| Guide | Audience | Use it when |
-| --- | --- | --- |
-| [Getting Started](getting-started-guide/getting-started.md) | First-time users and managers | You need to understand Verve, complete the basic setup, and see the first-use path. |
-| [Installation](installation-guide/overview.md) | Installers and IT administrators | You need to prepare a computer, install Verve, and verify the installation. |
-| [User Guide](user-guide/overview.md) | Experienced and new users | You need to complete product tasks such as signing in, managing projects, or collaborating. |
-| [Administration](administration-guide/administration.md) | Verve administrators | You need to manage users, roles, or system-wide settings. |
-| [Troubleshooting](troubleshooting-guide/troubleshooting.md) | Users, administrators, and support teams | A documented workflow does not produce the expected result. |
-| [Release Notes](release-notes/release-notes.md) | Customers, managers, and support teams | You need the key changes, considerations, fixed issues, and known limitations for a release. |
+- [Getting Started](getting-started-guide/getting-started.md) — Learn the basics, review prerequisites, and complete first-time setup.
+- [Installation](installation-guide/overview.md) — Prepare your environment, install Verve, and verify the deployment.
 
-## Get Started
+### Work in Verve every day
 
-- [Getting Started](getting-started-guide/getting-started.md) — Review prerequisites, complete setup, and find answers to common first-use questions.
-- [Installation](installation-guide/overview.md) — Review prerequisites, install Verve, verify the installation, and troubleshoot installation issues.
 - [User Guide](user-guide/overview.md) — Sign in, manage projects, and collaborate with teammates.
-- [Administration](administration-guide/administration.md) — Manage users and roles and configure system settings.
+- [Administration](administration-guide/administration.md) — Manage users, roles, permissions, and system settings.
 
-## Reference
+### Need answers quickly?
 
 - [Troubleshooting](troubleshooting-guide/troubleshooting.md) — Resolve sign-in, startup, installation, and project access problems.
-- [Release Notes](release-notes/release-notes.md) — Review updates and changes between releases.
+- [Release Notes](release-notes/release-notes.md) — Review updates, fixes, and known limitations for each release.
+
+## Documentation by task
+
+### Learn the basics
+
+- [Overview](getting-started-guide/overview.md) — Understand the product and the first-use journey.
+- [FAQs](getting-started-guide/faqs.md) — Find answers to common setup and onboarding questions.
+
+### Install and verify
+
+- [Prerequisites](installation-guide/prerequisites.md) — Confirm your system and environment requirements.
+- [Setup](installation-guide/setup.md) — Complete the installation steps.
+- [Verification](installation-guide/verification.md) — Confirm Verve is working correctly after installation.
+
+### Use the product
+
+- [Sign In](user-guide/sign-in.md) — Access the application securely.
+- [Projects](user-guide/projects.md) — Create and manage projects.
+- [Collaboration](user-guide/collaboration.md) — Work with teammates on shared tasks.
+
+### Manage Verve
+
+- [Users](administration-guide/users.md) — Add, update, and manage user access.
+- [Roles](administration-guide/roles.md) — Define responsibilities and permissions.
+- [System Settings](administration-guide/system-settings.md) — Configure platform-wide behavior.
+
+## Recommended path
+
+1. Review the [Getting Started](getting-started-guide/getting-started.md) guide.
+2. Complete the [Installation](installation-guide/overview.md) steps for your environment.
+3. Use the [User Guide](user-guide/overview.md) for day-to-day tasks.
+4. Refer to [Administration](administration-guide/administration.md) when managing users and settings.
+5. Check [Troubleshooting](troubleshooting-guide/troubleshooting.md) when an issue occurs.
+
+## Need help?
+
+If you cannot find the information you need, begin with the most relevant guide above or contact your administrator or support team for additional assistance.
