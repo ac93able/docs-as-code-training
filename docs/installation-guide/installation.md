@@ -2,7 +2,7 @@
  
 This guide explains how to install the product.
 
-![Installation flow](images/installation-flow.svg)
+![Installation flow](../images/installation-flow.svg)
 
 ## Prerequisites
  
@@ -24,8 +24,8 @@ Before installing the product, make sure you have:
  
 Open the application and sign in using your account.
 
-If the application does not start or you cannot sign in, see [Troubleshooting](troubleshooting.md).
+If the application does not start or you cannot sign in, see [Troubleshooting](../troubleshooting-guide/troubleshooting.md).
  
 ## Next steps
  
-After installation, continue with the [User Guide](user-guide.md) guide.
+After installation, continue with the [User Guide](../user-guide/user-guide.md) guide.

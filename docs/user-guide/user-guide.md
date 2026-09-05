@@ -2,7 +2,7 @@
  
 This guide explains the basic tasks that users can perform.
 
-![Project dashboard overview](images/user-guide-dashboard.svg)
+![Project dashboard overview](../images/user-guide-dashboard.svg)
  
 ## Sign in
  
@@ -11,7 +11,7 @@ This guide explains the basic tasks that users can perform.
 3. Enter your password.
 4. Select **Sign in**.
 
-If you cannot sign in, see the [Troubleshooting](troubleshooting.md) guide for common sign-in issues.
+If you cannot sign in, see the [Troubleshooting](../troubleshooting-guide/troubleshooting.md) guide for common sign-in issues.
  
 ## Create a project
  
@@ -26,4 +26,4 @@ Project members can update project settings and manage project content.
 
 ## Next steps
 
-After you are comfortable with the core tasks, continue to the [Administration](administration.md) guide.
+After you are comfortable with the core tasks, continue to the [Administration](../administration-guide/administration.md) guide.

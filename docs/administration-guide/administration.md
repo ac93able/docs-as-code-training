@@ -2,7 +2,7 @@
  
 Administrators can manage users, roles, and system settings.
 
-![Administration panel overview](images/admin-panel.svg)
+![Administration panel overview](../images/admin-panel.svg)
  
 ## Manage users
  
@@ -18,4 +18,4 @@ System settings control application-wide behavior.
 
 ## Next steps
 
-If you encounter issues, continue to the [Troubleshooting](troubleshooting.md) guide.
+If you encounter issues, continue to the [Troubleshooting](../troubleshooting-guide/troubleshooting.md) guide.

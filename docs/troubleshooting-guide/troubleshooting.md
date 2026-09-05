@@ -2,7 +2,7 @@
  
 Use this guide to resolve common problems.
 
-![Troubleshooting checklist](images/troubleshooting-checklist.svg)
+![Troubleshooting checklist](../images/troubleshooting-checklist.svg)
  
 ## Unable to sign in
  
@@ -19,4 +19,4 @@ If the problem continues, contact your administrator.
 
 ## Next steps
 
-If you need to revisit the setup flow, start again with the [Getting Started](getting-started.md) guide.
+If you need to revisit the setup flow, start again with the [Getting Started](../getting-started-guide/getting-started.md) guide.
