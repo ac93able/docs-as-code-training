@@ -6,15 +6,15 @@ Administrators can manage users, roles, and system settings.
  
 ## Manage users
  
-Administrators can add, edit, deactivate, and delete users.
+Administrators can add, edit, deactivate, and delete users. See [Manage Users](users.md) for the complete workflow.
  
 ## Manage roles
  
-Use roles to control access to Verve features.
+Use roles to control access to Verve features. See [Manage Roles](roles.md) for guidance on reviewing and assigning roles.
  
 ## Manage system settings
  
-System settings control Verve-wide behavior.
+System settings control Verve-wide behavior. See [Manage System Settings](system-settings.md) for the review, update, and verification workflow.
 
 ## Next steps
 

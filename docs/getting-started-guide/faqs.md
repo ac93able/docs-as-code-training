@@ -22,4 +22,4 @@ Try restarting Verve. If the problem continues, contact your administrator. See 
 
 ## Where can administrators manage users and roles?
 
-Administrators can manage users, roles, and system settings in the [Administration guide](../administration-guide/administration.md).
+Administrators can manage users in the [Manage Users](../administration-guide/users.md) guide, roles in the [Manage Roles](../administration-guide/roles.md) guide, and system settings in the [Manage System Settings](../administration-guide/system-settings.md) guide.

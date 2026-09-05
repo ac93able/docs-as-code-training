@@ -28,4 +28,4 @@ If Verve does not start or you cannot sign in, see [Troubleshooting](../troubles
  
 ## Next steps
  
-After installation, continue with the [User Guide](../user-guide/user-guide.md) guide.
+After installation, continue with the [User Guide](../user-guide/overview.md) guide.

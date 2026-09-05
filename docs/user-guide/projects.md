@@ -30,7 +30,7 @@ Use project settings to keep the project organized and aligned with your team’
 4. Select the user or group to assign.
 5. Set their role and save the changes.
 
-For more information on role-based access, see the [Administration](../administration-guide/administration.md) guide.
+For more information on role-based access, see [Manage Roles](../administration-guide/roles.md).
 
 ## Review project activity
 

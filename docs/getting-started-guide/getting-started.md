@@ -22,4 +22,4 @@ Use this guide to prepare for installation, complete the initial setup, and find
  
 ## Next steps
 
-After completing the setup, continue with the [User Guide](../user-guide/user-guide.md).
+After completing the setup, continue with the [User Guide](../user-guide/overview.md).

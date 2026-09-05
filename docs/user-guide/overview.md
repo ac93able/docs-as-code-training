@@ -9,7 +9,7 @@ Verve helps users sign in, create projects, and collaborate with teammates. This
 - Sign in to Verve using the [Sign in](sign-in.md) guide.
 - Create and manage projects using [Project management](projects.md).
 - Share updates and assign work using [Collaboration](collaboration.md).
-- Review administrative settings in the [Administration](../administration-guide/administration.md) guide.
+- Review administrative settings in [Manage System Settings](../administration-guide/system-settings.md).
 
 ## Guide contents
 
@@ -27,4 +27,4 @@ Verve helps users sign in, create projects, and collaborate with teammates. This
 
 ## Next steps
 
-After you are comfortable with the core tasks, continue with [Project management](projects.md) or review the [Administration](../administration-guide/administration.md) guide for permissions and system settings.
+After you are comfortable with the core tasks, continue with [Project management](projects.md), [Manage Roles](../administration-guide/roles.md) for permissions, or [Manage System Settings](../administration-guide/system-settings.md) for system settings.
