@@ -1,5 +1,14 @@
 # Manage Roles
 
+## Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Role administration overview](#role-administration-overview)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Troubleshooting](#troubleshooting)
+- [Best Practices](#best-practices)
+
 ## Introduction
 
 Use roles in Verve to control access to features and project information. This quick start guide explains how to review roles, assign the appropriate role to a user, and update access when responsibilities change.
@@ -12,6 +21,14 @@ Use roles in Verve to control access to features and project information. This q
 
 ## Role administration overview
 
+![Administration panel](../images/admin-panel.svg)
+
+| Role decision | Evidence to review | Result to verify |
+| --- | --- | --- |
+| Assign a role | User responsibilities and required projects | The user can complete the required work. |
+| Change a role | New responsibilities and existing access | Previous access is replaced as expected. |
+| Remove access | Responsibilities or project membership have ended | The user no longer has unnecessary access. |
+
 ### Review available roles
 
 1. Open the administration panel.
@@ -19,6 +36,17 @@ Use roles in Verve to control access to features and project information. This q
 3. Review the available roles and their access descriptions.
 
 Use the role descriptions to choose access that matches the user's responsibilities.
+
+Document the access decision before saving it:
+
+```yaml
+user: ""
+responsibilities: []
+required_projects_or_features: []
+selected_role: ""
+reason: ""
+reviewer: ""
+```
 
 ### Assign a role
 

@@ -11,6 +11,16 @@ Complete the following activities before using Verve for daily work.
 
 For details, see [Install Verve](../installation-guide/setup.md).
 
+Record the setup result before continuing:
+
+```yaml
+installation: complete
+application_opened: true
+account_verified: true
+project_created: true
+follow_up_needed: ""
+```
+
 ## 2. Verify the installation
 
 Open Verve and sign in using your account. If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).

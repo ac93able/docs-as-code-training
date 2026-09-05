@@ -11,6 +11,21 @@ Confirm that Verve starts and that your account can sign in.
 
 Verve is ready to use when the application opens successfully after sign-in.
 
+Use this checklist to record the verification result:
+
+```markdown
+## Verification checklist
+
+- [ ] Verve opens
+- [ ] Username is accepted
+- [ ] Password is accepted
+- [ ] Project dashboard is available
+
+**Verification result:** passed or failed
+
+**Notes:**
+```
+
 If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
 
 ## Next steps

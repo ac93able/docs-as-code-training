@@ -22,6 +22,16 @@ Use Verve administration tools to manage the people who can access your organiza
 
 The user account is created and can be used according to its assigned access.
 
+Capture the account details before saving:
+
+```yaml
+name: ""
+username: ""
+account_status: active
+assigned_role: ""
+projects: []
+```
+
 ### Edit a user
 
 1. Open the administration panel.
@@ -51,6 +61,9 @@ The user can no longer access Verve while the account is inactive.
 5. Confirm the action.
 
 The user is removed from Verve. Delete an account only when you no longer need its record.
+
+> [!WARNING]
+> Deactivate an account when access may need to be restored. Delete it only when the user record is no longer needed.
 
 ## Frequently Asked Questions
 

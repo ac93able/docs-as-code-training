@@ -6,6 +6,13 @@ Use this guide to prepare for installation, complete the initial setup, and see 
 
 ![Getting started overview](../images/getting-started-overview.svg)
 
+## Contents
+
+- [Guide contents](#guide-contents)
+- [Recommended path](#recommended-path)
+- [Completion checklist](#completion-checklist)
+- [Next steps](#next-steps)
+
 ## Guide contents
 
 - [Overview](overview.md) — Learn what Verve does and how the documentation is organized.

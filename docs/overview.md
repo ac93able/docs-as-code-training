@@ -2,6 +2,12 @@
 
 This documentation provides topic-based guidance for installing, configuring, using, and maintaining Verve. Each guide is written for a specific audience and task so that you can find the smallest amount of information needed to complete your work.
 
+## Contents
+
+- [Choose a guide](#choose-a-guide)
+- [Get Started](#get-started)
+- [Reference](#reference)
+
 ## Choose a guide
 
 | Guide | Audience | Use it when |

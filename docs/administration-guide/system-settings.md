@@ -1,8 +1,19 @@
 # Manage System Settings
 
+## Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [System settings overview](#system-settings-overview)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Troubleshooting](#troubleshooting)
+- [Best Practices](#best-practices)
+
 ## Introduction
 
 System settings control behavior across Verve. This quick start guide explains how to review and update Verve-wide settings while keeping changes predictable for users and projects.
+
+![System settings workflow](../images/system-settings.svg)
 
 ## Prerequisites
 
@@ -39,6 +50,22 @@ The updated setting applies across Verve according to its scope.
 4. Record the change if your team maintains an administration log.
 
 The setting change is complete after the expected behavior is confirmed.
+
+Record important changes in a consistent format:
+
+```ini
+[system-settings]
+setting =
+previous_value =
+new_value =
+reason =
+affected_users_or_projects =
+verification_result =
+administrator =
+```
+
+> [!IMPORTANT]
+> Make one related change at a time. A single change makes it easier to identify its effect and restore the previous value if needed.
 
 ## Frequently Asked Questions
 

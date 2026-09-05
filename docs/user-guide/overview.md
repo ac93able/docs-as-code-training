@@ -6,6 +6,14 @@ Use the [Getting Started guide](../getting-started-guide/getting-started.md) for
 
 ![Project dashboard overview](../images/user-guide-dashboard.svg)
 
+## Contents
+
+- [What you can do](#what-you-can-do)
+- [Product model](#product-model)
+- [Guide contents](#guide-contents)
+- [Recommended workflow](#recommended-workflow)
+- [Next steps](#next-steps)
+
 ## What you can do
 
 - Sign in to Verve using the [Sign in](sign-in.md) guide.

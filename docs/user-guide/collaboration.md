@@ -4,6 +4,16 @@ Use this guide to work effectively with teammates, share updates, and keep proje
 
 ![Collaboration overview](../images/user-guide-dashboard.svg)
 
+## Contents
+
+- [Collaboration in Verve](#collaboration-in-verve)
+  - [Contents](#contents)
+  - [Share project updates](#share-project-updates)
+  - [Assign work to teammates](#assign-work-to-teammates)
+  - [Review comments and feedback](#review-comments-and-feedback)
+  - [Keep projects current](#keep-projects-current)
+  - [Next steps](#next-steps)
+
 ## Share project updates
 
 1. Open the project.
@@ -12,6 +22,16 @@ Use this guide to work effectively with teammates, share updates, and keep proje
 4. Save the update so teammates can review it.
 
 Regular updates help the team understand the current project status and any blockers.
+
+Use a consistent update format:
+
+```yaml
+status: on_track
+completed: []
+next_steps: []
+owner: ""
+blockers: []
+```
 
 ## Assign work to teammates
 
@@ -22,16 +42,30 @@ Regular updates help the team understand the current project status and any bloc
 
 Assigned work helps make responsibilities clear and keeps tasks moving forward.
 
+Example assignment details:
+
+```json
+{
+  "task": "",
+  "assignee": "",
+  "dueDate": "",
+  "priority": "",
+  "status": "not started | in progress | complete"
+}
+```
+
 ## Review comments and feedback
 
 Use comments to discuss open questions, review decisions, and confirm completion. Team members can respond to comments and track discussion in one place.
 
 ## Keep projects current
 
-- Update tasks when work changes
-- Add notes for important decisions
-- Review the dashboard regularly
-- Communicate blockers early
+| Habit | When to do it | Why it matters |
+| --- | --- | --- |
+| Update tasks | When work changes | Keeps status and ownership accurate. |
+| Add decision notes | After an important decision | Gives teammates useful context. |
+| Review the dashboard | During regular project check-ins | Surfaces outstanding work. |
+| Communicate blockers | As soon as a blocker is known | Gives the team time to respond. |
 
 ## Next steps
 

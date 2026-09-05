@@ -11,6 +11,14 @@ Use this guide to resolve common problems with Verve. It is intended for users, 
 - [Installation problems](installation.md) — Resolve problems installing or verifying Verve.
 - [Project access problems](project-access.md) — Resolve project visibility and permission problems.
 
+## Contents
+
+- [Troubleshooting topics](#troubleshooting-topics)
+- [Before you contact support](#before-you-contact-support)
+- [Diagnostic path](#diagnostic-path)
+- [Support record](#support-record)
+- [Next steps](#next-steps)
+
 ## Before you contact support
 
 Record the action you attempted, the expected result, the message Verve displayed, and the steps you already tried. Include the Verve version, operating system, time of the failure, and relevant project or account details when you contact your administrator or support team. Do not share your password or other secrets.
@@ -22,6 +30,26 @@ Record the action you attempted, the expected result, the message Verve displaye
 3. Confirm the user's account, role, project membership, and Verve version where relevant.
 4. Apply the matching troubleshooting topic and verify the result after each change.
 5. Escalate with the collected details when the problem continues or affects multiple users.
+
+## Support record
+
+Use this template when you need to provide the same diagnostic details to an administrator or support team:
+
+![Support record fields](../images/support-record.svg)
+
+```yaml
+problem: ""
+expected_result: ""
+message_displayed: ""
+steps_already_tried: []
+verve_version: ""
+operating_system: ""
+time_of_failure: ""
+affected_user_project_or_account: ""
+```
+
+> [!WARNING]
+> Do not include passwords, authentication codes, or other secrets in a support record.
 
 ## Next steps
 

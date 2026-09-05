@@ -2,7 +2,17 @@
 
 This guide explains how to create, manage, and maintain projects in Verve.
 
-![Project workspace overview](../images/user-guide-dashboard.svg)
+![Project workspace overview](../images/project-workspace.svg)
+
+## Contents
+
+- [Project Management](#project-management)
+  - [Contents](#contents)
+  - [Create a project](#create-a-project)
+  - [Manage project settings](#manage-project-settings)
+  - [Add project members](#add-project-members)
+  - [Review project activity](#review-project-activity)
+  - [Next steps](#next-steps)
 
 ## Create a project
 
@@ -13,6 +23,18 @@ This guide explains how to create, manage, and maintain projects in Verve.
 
 After the project is created, you can begin adding content, members, and updates.
 
+Use a name that helps teammates identify the work quickly:
+
+```json
+{
+  "project": {
+    "name": "Customer onboarding - Q3",
+    "description": "Track onboarding tasks, owners, and status updates.",
+    "visibility": "Team"
+  }
+}
+```
+
 ## Manage project settings
 
 1. Open the project you want to work in.
@@ -21,6 +43,12 @@ After the project is created, you can begin adding content, members, and updates
 4. Save your changes when finished.
 
 Use project settings to keep the project organized and aligned with your team’s process.
+
+| Setting | Recommended review | Verify after saving |
+| --- | --- | --- |
+| Name | Is the name clear to the whole team? | The project is easy to find. |
+| Description | Does it explain the work and outcome? | New members understand the purpose. |
+| Visibility | Does the audience match the project need? | Only the intended users can access it. |
 
 ## Add project members
 
