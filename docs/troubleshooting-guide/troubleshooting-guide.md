@@ -6,10 +6,10 @@ Use this guide to resolve common problems with Verve. It is intended for users, 
  
 ## Troubleshooting topics
 
-- [Unable to sign in](sign-in.md) — Resolve credential, account, and access problems.
-- [Verve does not start](startup.md) — Resolve startup and application launch problems.
-- [Installation problems](installation.md) — Resolve problems installing or verifying Verve.
-- [Project access problems](project-access.md) — Resolve project visibility and permission problems.
+- [Unable to sign in](troubleshoot-sign-in.md) — Resolve credential, account, and access problems.
+- [Verve does not start](troubleshoot-startup.md) — Resolve startup and application launch problems.
+- [Installation problems](troubleshoot-installation.md) — Resolve problems installing or verifying Verve.
+- [Project access problems](troubleshoot-project-access.md) — Resolve project visibility and permission problems.
 
 ## Contents
 
@@ -53,4 +53,4 @@ affected_user_project_or_account: ""
 
 ## Next steps
 
-If you need to revisit the setup flow, start again with the [Getting Started](../getting-started-guide/getting-started.md) guide.
+If you need to revisit the setup flow, start again with the [Getting Started](../getting-started-guide/getting-started-guide.md) guide.

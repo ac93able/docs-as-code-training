@@ -79,7 +79,7 @@ No. A deactivated account cannot access Verve until an administrator activates i
 
 ### The user cannot sign in
 
-Confirm that the username is correct and that the account is active. If the problem continues, review [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
+Confirm that the username is correct and that the account is active. If the problem continues, review [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
 
 ### I cannot update a user
 

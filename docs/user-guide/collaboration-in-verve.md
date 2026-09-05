@@ -69,4 +69,4 @@ Use comments to discuss open questions, review decisions, and confirm completion
 
 ## Next steps
 
-Continue with [Manage Roles](../administration-guide/roles.md) if you manage permissions or roles, or [Manage System Settings](../administration-guide/system-settings.md) if you manage system settings. If you run into issues, use the [Troubleshooting](../troubleshooting-guide/troubleshooting.md) guide.
+Continue with [Manage Roles](../administration-guide/manage-roles.md) if you manage permissions or roles, or [Manage System Settings](../administration-guide/manage-system-settings.md) if you manage system settings. If you run into issues, use the [Troubleshooting](../troubleshooting-guide/troubleshooting-guide.md) guide.

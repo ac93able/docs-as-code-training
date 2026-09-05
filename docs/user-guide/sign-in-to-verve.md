@@ -14,7 +14,7 @@ Use this guide to open Verve and access your account.
 > [!NOTE]
 > Your account must be active before you can sign in or create a project. Contact an administrator if you are unsure of your account status.
 
-If you are unsure of your credentials, contact your administrator or review [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
+If you are unsure of your credentials, contact your administrator or review [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
 
 ## After you sign in
 
@@ -34,8 +34,8 @@ If you cannot sign in, confirm the following:
 - Your account is active.
 - Your system has internet access if required by your environment.
 
-For additional help, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
+For additional help, see [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
 
 ## Next steps
 
-After you sign in, continue with [Project management](projects.md) to create and manage your first project.
+After you sign in, continue with [Project management](project-management.md) to create and manage your first project.

@@ -16,4 +16,4 @@ If you do not have an account, contact your administrator before starting the in
 
 ## Next steps
 
-When you have the required access and materials, [install Verve](setup.md).
+When you have the required access and materials, [install Verve](install-verve.md).

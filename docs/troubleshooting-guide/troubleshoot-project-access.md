@@ -33,7 +33,7 @@ Your account may not be a project member, or the project may not be visible to y
 
 ### Who can change project access?
 
-Project owners or administrators can update membership and roles. See [Manage Roles](../administration-guide/roles.md) for role management guidance.
+Project owners or administrators can update membership and roles. See [Manage Roles](../administration-guide/manage-roles.md) for role management guidance.
 
 ## Best Practices
 
@@ -41,4 +41,4 @@ Project owners or administrators can update membership and roles. See [Manage Ro
 - Assign only the access each user needs.
 - Review project membership when a user's responsibilities change.
 
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting.md).
+For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).

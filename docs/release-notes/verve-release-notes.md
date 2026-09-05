@@ -28,18 +28,18 @@ This documentation is provided under the terms of the project license. See the [
 
 Welcome to version 1.0.0 of the Verve documentation. These release notes summarize the key documented capabilities and considerations for this release. They are not a replacement for the detailed installation, user, administration, or troubleshooting guides.
 
-Begin with the [Getting Started guide](../getting-started-guide/getting-started.md), then follow the [Installation guide](../installation-guide/overview.md).
+Begin with the [Getting Started guide](../getting-started-guide/getting-started-guide.md), then follow the [Installation guide](../installation-guide/installation-overview.md).
 
 ## What's New
 
 ### New Features
 
-- **Getting started:** New users can review the setup path and continue to installation. See the [Getting Started guide](../getting-started-guide/getting-started.md).
-- **Installation:** Administrators can check prerequisites, complete the installation wizard, and verify Verve. See the [Installation guide](../installation-guide/overview.md).
-- **Sign-in:** Users can sign in with a username and password. See the [Sign in](../user-guide/sign-in.md) guide.
-- **Project management:** Users can create projects, update project settings, add members, and review project activity. See [Project Management](../user-guide/projects.md) and [Collaboration](../user-guide/collaboration.md).
-- **Administration:** Administrators can [manage users](../administration-guide/users.md), [manage roles](../administration-guide/roles.md), and [manage system settings](../administration-guide/system-settings.md).
-- **Troubleshooting:** Users can find guidance for [sign-in failures](../troubleshooting-guide/sign-in.md), [startup problems](../troubleshooting-guide/startup.md), [installation problems](../troubleshooting-guide/installation.md), and [project access problems](../troubleshooting-guide/project-access.md).
+- **Getting started:** New users can review the setup path and continue to installation. See the [Getting Started guide](../getting-started-guide/getting-started-guide.md).
+- **Installation:** Administrators can check prerequisites, complete the installation wizard, and verify Verve. See the [Installation guide](../installation-guide/installation-overview.md).
+- **Sign-in:** Users can sign in with a username and password. See the [Sign in](../user-guide/sign-in-to-verve.md) guide.
+- **Project management:** Users can create projects, update project settings, add members, and review project activity. See [Project Management](../user-guide/project-management.md) and [Collaboration](../user-guide/collaboration-in-verve.md).
+- **Administration:** Administrators can [manage users](../administration-guide/manage-users.md), [manage roles](../administration-guide/manage-roles.md), and [manage system settings](../administration-guide/manage-system-settings.md).
+- **Troubleshooting:** Users can find guidance for [sign-in failures](../troubleshooting-guide/troubleshoot-sign-in.md), [startup problems](../troubleshooting-guide/troubleshoot-startup.md), [installation problems](../troubleshooting-guide/troubleshoot-installation.md), and [project access problems](../troubleshooting-guide/troubleshoot-project-access.md).
 
 ### Enhancements
 
@@ -55,7 +55,7 @@ Begin with the [Getting Started guide](../getting-started-guide/getting-started.
 
 This is the initial documented release. No upgrade from an earlier documented version is required.
 
-For a new installation, review the [prerequisites](../installation-guide/prerequisites.md), complete the [installation steps](../installation-guide/setup.md), and [verify the installation](../installation-guide/verification.md).
+For a new installation, review the [prerequisites](../installation-guide/installation-prerequisites.md), complete the [installation steps](../installation-guide/install-verve.md), and [verify the installation](../installation-guide/verify-installation.md).
 
 ## Considerations
 

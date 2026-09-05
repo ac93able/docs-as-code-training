@@ -26,10 +26,10 @@ Use this checklist to record the verification result:
 **Notes:**
 ```
 
-If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
+If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/troubleshoot-startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
 
 ## Next steps
 
-- New users can continue with [Getting Started](../getting-started-guide/getting-started.md).
-- Users can review the [User Guide](../user-guide/overview.md).
-- Administrators can review the [Administration guide](../administration-guide/administration.md).
+- New users can continue with [Getting Started](../getting-started-guide/getting-started-guide.md).
+- Users can review the [User Guide](../user-guide/user-guide.md).
+- Administrators can review the [Administration guide](../administration-guide/administration-guide.md).

@@ -25,7 +25,7 @@ Verve is installed when the wizard completes without an error.
 3. Enter your password.
 4. Select **Sign in**.
 
-If Verve opens after sign-in, the installation is ready to use. If sign-in fails, see [Troubleshoot sign-in problems](sign-in.md).
+If Verve opens after sign-in, the installation is ready to use. If sign-in fails, see [Troubleshoot sign-in problems](troubleshoot-sign-in.md).
 
 ## Frequently Asked Questions
 
@@ -43,4 +43,4 @@ Open Verve and sign in. If the application opens successfully, the installation 
 - Complete the installation before opening Verve.
 - Verify the installation immediately after it finishes.
 
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting.md).
+For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).

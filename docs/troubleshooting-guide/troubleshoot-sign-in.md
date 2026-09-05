@@ -41,4 +41,4 @@ Your account may be inactive, or your credentials may differ from the other user
 - Do not share your password with other users.
 - Contact an administrator promptly when your account status changes.
 
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting.md).
+For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).

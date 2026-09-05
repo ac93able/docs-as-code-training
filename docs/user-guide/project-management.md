@@ -58,7 +58,7 @@ Use project settings to keep the project organized and aligned with your team’
 4. Select the user or group to assign.
 5. Set their role and save the changes.
 
-For more information on role-based access, see [Manage Roles](../administration-guide/roles.md).
+For more information on role-based access, see [Manage Roles](../administration-guide/manage-roles.md).
 
 ## Review project activity
 
@@ -66,4 +66,4 @@ Check the project dashboard to monitor updates, recent changes, and outstanding 
 
 ## Next steps
 
-After you become comfortable creating and managing projects, continue to [Collaboration](collaboration.md) for guidance on working with teammates in Verve.
+After you become comfortable creating and managing projects, continue to [Collaboration](collaboration-in-verve.md) for guidance on working with teammates in Verve.

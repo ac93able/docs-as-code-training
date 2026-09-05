@@ -40,4 +40,4 @@ Close and reopen Verve. If the blank screen remains, contact your administrator 
 - Restart Verve after an installation or configuration change.
 - Record error messages before closing the application.
 
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting.md).
+For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).
