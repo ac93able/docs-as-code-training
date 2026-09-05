@@ -67,6 +67,8 @@ administrator =
 > [!IMPORTANT]
 > Make one related change at a time. A single change makes it easier to identify its effect and restore the previous value if needed.
 
+If a setting change affects users or projects unexpectedly, follow the troubleshooting guidance below.
+
 ## Frequently Asked Questions
 
 ### Who can change system settings?

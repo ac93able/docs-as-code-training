@@ -1,5 +1,14 @@
 # Manage Users
 
+## Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [User administration overview](#user-administration-overview)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Troubleshooting](#troubleshooting)
+- [Best Practices](#best-practices)
+
 ## Introduction
 
 Use Verve administration tools to manage the people who can access your organization. This quick start guide explains how to add users, update account details, deactivate accounts, and remove users when necessary.
@@ -62,6 +71,8 @@ The user can no longer access Verve while the account is inactive.
 
 The user is removed from Verve. Delete an account only when you no longer need its record.
 
+For role and project access after creating an account, see [Manage Roles](manage-roles.md).
+
 > [!WARNING]
 > Deactivate an account when access may need to be restored. Delete it only when the user record is no longer needed.
 
@@ -79,7 +90,7 @@ No. A deactivated account cannot access Verve until an administrator activates i
 
 ### The user cannot sign in
 
-Confirm that the username is correct and that the account is active. If the problem continues, review [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
+Confirm that the username is correct and that the account is active. If the problem continues, contact an administrator.
 
 ### I cannot update a user
 

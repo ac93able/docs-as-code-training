@@ -1,5 +1,13 @@
 # Troubleshoot startup problems
 
+## Contents
+
+- [Before you get started](#before-you-get-started)
+- [Restart Verve](#restart-verve)
+- [Restart the device](#restart-the-device)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Best Practices](#best-practices)
+
 Use this guide when Verve does not open or closes before you can sign in.
 
 ## Before you get started
@@ -39,5 +47,3 @@ Close and reopen Verve. If the blank screen remains, contact your administrator 
 - Keep Verve updated according to your organization's maintenance process.
 - Restart Verve after an installation or configuration change.
 - Record error messages before closing the application.
-
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).

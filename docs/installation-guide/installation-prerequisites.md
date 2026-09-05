@@ -14,6 +14,4 @@ Before you install Verve, prepare the following items:
 
 If you do not have an account, contact your administrator before starting the installation.
 
-## Next steps
-
-When you have the required access and materials, [install Verve](install-verve.md).
+When these requirements are complete, continue to [Install Verve](install-verve.md).

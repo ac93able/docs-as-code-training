@@ -84,7 +84,7 @@ Review the role when the user's responsibilities, team, or project assignments c
 
 ### The user cannot access a project
 
-Confirm that the user has an active account and the role required for the project. Also verify the user's project membership in [Project management](../user-guide/project-management.md#add-project-members).
+Confirm that the user has an active account, the role required for the project, and project membership. For project membership steps, see [Add project members](../user-guide/project-management.md#add-project-members).
 
 ### A role change does not appear
 

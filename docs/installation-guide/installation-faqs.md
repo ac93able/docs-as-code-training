@@ -1,17 +1,24 @@
 # Installation FAQs
 
+## Contents
+
+- [What do I need before installing Verve?](#what-do-i-need-before-installing-verve)
+- [How do I install Verve?](#how-do-i-install-verve)
+- [How do I confirm that Verve installed correctly?](#how-do-i-confirm-that-verve-installed-correctly)
+- [What should I do if Verve does not start?](#what-should-i-do-if-verve-does-not-start)
+
 ## What do I need before installing Verve?
 
-You need administrator access, internet access, the Verve installation package, and an active Verve account. See the [installation prerequisites](installation-prerequisites.md).
+You need administrator access, internet access, the Verve installation package, and an active Verve account.
 
 ## How do I install Verve?
 
-Download and open the installation package, follow the installation wizard, select **Install**, and select **Finish**. See [Install Verve](install-verve.md).
+Download and open the installation package, follow the installation wizard, select **Install**, and select **Finish**.
 
 ## How do I confirm that Verve installed correctly?
 
-Open Verve and sign in with your account. See [Verify the installation](verify-installation.md).
+Open Verve and sign in with your account. The installation is ready when the application opens successfully.
 
 ## What should I do if Verve does not start?
 
-Restart Verve. If the problem continues, contact your administrator and review [Troubleshoot startup problems](../troubleshooting-guide/troubleshoot-startup.md).
+Restart Verve. If the problem continues, contact your administrator.

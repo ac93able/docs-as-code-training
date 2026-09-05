@@ -9,8 +9,6 @@ Complete the following activities before using Verve for daily work.
 3. Follow the installation wizard.
 4. Select **Install**, then select **Finish** when installation is complete.
 
-For details, see [Install Verve](../installation-guide/install-verve.md).
-
 Record the setup result before continuing:
 
 ```yaml
@@ -23,7 +21,7 @@ follow_up_needed: ""
 
 ## 2. Verify the installation
 
-Open Verve and sign in using your account. If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/troubleshoot-startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
+Open Verve and sign in using your account. If Verve does not start, follow [Troubleshoot startup problems](../troubleshooting-guide/troubleshoot-startup.md). If you cannot sign in, follow [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
 
 ## 3. Sign in
 
@@ -32,13 +30,9 @@ Open Verve and sign in using your account. If Verve does not start, see [Trouble
 3. Enter your password.
 4. Select **Sign in**.
 
-See the [Sign in](../user-guide/sign-in-to-verve.md#sign-in-to-verve) task for the same steps in the User Guide.
-
 ## 4. Create your first project
 
 1. Open the Projects page.
 2. Select **Create Project**.
 3. Enter the project name.
 4. Select **Create**.
-
-Continue with [Manage project settings](../user-guide/project-management.md#manage-project-settings) to learn about project settings and content.

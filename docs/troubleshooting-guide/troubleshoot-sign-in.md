@@ -1,5 +1,13 @@
 # Troubleshoot sign-in problems
 
+## Contents
+
+- [Before you get started](#before-you-get-started)
+- [Check your credentials](#check-your-credentials)
+- [Resolve an account problem](#resolve-an-account-problem)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Best Practices](#best-practices)
+
 Use this guide when Verve does not accept your credentials or does not let you access your account.
 
 ## Before you get started
@@ -40,5 +48,3 @@ Your account may be inactive, or your credentials may differ from the other user
 - Enter your username and password carefully.
 - Do not share your password with other users.
 - Contact an administrator promptly when your account status changes.
-
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).

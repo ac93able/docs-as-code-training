@@ -1,25 +1,34 @@
 # FAQs
 
+## Contents
+
+- [What do I need before installing Verve?](#what-do-i-need-before-installing-verve)
+- [How do I install Verve?](#how-do-i-install-verve)
+- [How do I sign in?](#how-do-i-sign-in)
+- [How do I create a project?](#how-do-i-create-a-project)
+- [What should I do if Verve does not start?](#what-should-i-do-if-verve-does-not-start)
+- [Where can administrators manage users and roles?](#where-can-administrators-manage-users-and-roles)
+
 ## What do I need before installing Verve?
 
-You need administrator access, internet access, and the installation package. See the [prerequisites](getting-started-prerequisites.md) for the complete list.
+You need administrator access, internet access, and the installation package.
 
 ## How do I install Verve?
 
-Download and open the installation package, follow the installation wizard, select **Install**, and select **Finish**. See [Install Verve](../installation-guide/install-verve.md).
+Download and open the installation package, follow the installation wizard, select **Install**, and select **Finish**.
 
 ## How do I sign in?
 
-Open Verve, enter your username and password, and select **Sign in**. If sign-in fails, confirm that your credentials are correct and that your account is active. See [Troubleshoot sign-in problems](../troubleshooting-guide/troubleshoot-sign-in.md).
+Open Verve, enter your username and password, and select **Sign in**. If sign-in fails, confirm that your credentials are correct and that your account is active.
 
 ## How do I create a project?
 
-After signing in, open the Projects page, select **Create Project**, enter a project name, and select **Create**. See [Create a project](../user-guide/project-management.md#create-a-project).
+After signing in, open the Projects page, select **Create Project**, enter a project name, and select **Create**.
 
 ## What should I do if Verve does not start?
 
-Try restarting Verve. If the problem continues, contact your administrator. See [Troubleshoot startup problems](../troubleshooting-guide/troubleshoot-startup.md).
+Try restarting Verve. If the problem continues, contact your administrator.
 
 ## Where can administrators manage users and roles?
 
-Administrators can manage users in the [Manage Users](../administration-guide/manage-users.md) guide, roles in the [Manage Roles](../administration-guide/manage-roles.md) guide, and system settings in the [Manage System Settings](../administration-guide/manage-system-settings.md) guide.
+Administrators can manage users, roles, and system settings from the administration panel.

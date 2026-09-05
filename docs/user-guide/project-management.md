@@ -4,16 +4,6 @@ This guide explains how to create, manage, and maintain projects in Verve.
 
 ![Project workspace overview](../images/project-workspace.svg)
 
-## Contents
-
-- [Project Management](#project-management)
-  - [Contents](#contents)
-  - [Create a project](#create-a-project)
-  - [Manage project settings](#manage-project-settings)
-  - [Add project members](#add-project-members)
-  - [Review project activity](#review-project-activity)
-  - [Next steps](#next-steps)
-
 ## Create a project
 
 1. Open the Projects page.
@@ -58,12 +48,8 @@ Use project settings to keep the project organized and aligned with your team’
 4. Select the user or group to assign.
 5. Set their role and save the changes.
 
-For more information on role-based access, see [Manage Roles](../administration-guide/manage-roles.md).
+Set each member's role according to the access they need.
 
 ## Review project activity
 
 Check the project dashboard to monitor updates, recent changes, and outstanding tasks. Reviewing the activity stream helps you stay aware of what has changed and what still needs attention.
-
-## Next steps
-
-After you become comfortable creating and managing projects, continue to [Collaboration](collaboration-in-verve.md) for guidance on working with teammates in Verve.

@@ -1,5 +1,13 @@
 # Troubleshoot project access problems
 
+## Contents
+
+- [Before you get started](#before-you-get-started)
+- [Check project access](#check-project-access)
+- [Resolve a permission problem](#resolve-a-permission-problem)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Best Practices](#best-practices)
+
 Use this guide when you cannot see a project, open a project, or complete a project task in Verve.
 
 ## Before you get started
@@ -33,12 +41,10 @@ Your account may not be a project member, or the project may not be visible to y
 
 ### Who can change project access?
 
-Project owners or administrators can update membership and roles. See [Manage Roles](../administration-guide/manage-roles.md) for role management guidance.
+Project owners or administrators can update membership and roles in [Manage Roles](../administration-guide/manage-roles.md).
 
 ## Best Practices
 
 - Use clear project names so users can find the correct project.
 - Assign only the access each user needs.
 - Review project membership when a user's responsibilities change.
-
-For general troubleshooting, return to the [Troubleshooting guide](troubleshooting-guide.md).
