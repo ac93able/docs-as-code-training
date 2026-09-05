@@ -7,11 +7,10 @@
 This documentation is provided under the terms of the project license. See the [project license](../../LICENSE) for details.
 
 ## Contents
-
 - [Product Release Notes](#product-release-notes)
   - [Copyrights](#copyrights)
   - [Contents](#contents)
-  - [Welcome / Introduction](#welcome--introduction)
+  - [Welcome](#welcome)
   - [Video](#video)
   - [What's New](#whats-new)
     - [New Features](#new-features)
@@ -24,7 +23,7 @@ This documentation is provided under the terms of the project license. See the [
   - [Language Support](#language-support)
   - [Acknowledgements](#acknowledgements)
 
-## Welcome / Introduction
+## Welcome
 
 Welcome to version 1.0.0 of the product documentation. This initial release provides guidance for new users, administrators, and support teams. It covers installation, sign-in, project management, user and role administration, system settings, and troubleshooting.
 
