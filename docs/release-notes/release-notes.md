@@ -27,7 +27,7 @@ This documentation is provided under the terms of the project license. See the [
 
 Welcome to version 1.0.0 of the Verve documentation. This initial release provides guidance for new users, administrators, and support teams. It covers installation, sign-in, project management, user and role administration, system settings, and troubleshooting.
 
-Begin with the [Getting Started guide](../getting-started-guide/getting-started.md), then follow the [Installation guide](../installation-guide/installation.md).
+Begin with the [Getting Started guide](../getting-started-guide/getting-started.md), then follow the [Installation guide](../installation-guide/overview.md).
 
 ## Video
 
@@ -38,7 +38,7 @@ No release video is included in this version. The Verve guides provide workflow 
 ### New Features
 
 - **Getting started:** New users can review the setup path and continue to installation. See the [Getting Started guide](../getting-started-guide/getting-started.md).
-- **Installation:** Administrators can check prerequisites, complete the installation wizard, and verify Verve. See the [Installation guide](../installation-guide/installation.md).
+- **Installation:** Administrators can check prerequisites, complete the installation wizard, and verify Verve. See the [Installation guide](../installation-guide/overview.md).
 - **Sign-in:** Users can sign in with a username and password. See [Sign in](../user-guide/overview.md#sign-in).
 - **Project management:** Users can create projects, update project settings, and manage project content. See [Create a project](../user-guide/overview.md#create-a-project) and [Manage a project](../user-guide/overview.md#manage-a-project).
 - **Administration:** Administrators can manage users, roles, and system settings. See the [Administration guide](../administration-guide/administration.md).
@@ -54,7 +54,7 @@ No release video is included in this version. The Verve guides provide workflow 
 
 This is the initial documented release. No upgrade from an earlier documented version is required.
 
-For a new installation, review the [prerequisites](../installation-guide/installation.md#prerequisites), complete the [installation steps](../installation-guide/installation.md#install-verve), and [verify the installation](../installation-guide/installation.md#verify-the-installation).
+For a new installation, review the [prerequisites](../installation-guide/prerequisites.md), complete the [installation steps](../installation-guide/setup.md), and [verify the installation](../installation-guide/verification.md).
 
 ## Considerations
 

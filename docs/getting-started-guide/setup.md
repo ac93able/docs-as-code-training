@@ -9,7 +9,7 @@ Complete the following activities before using Verve for daily work.
 3. Follow the installation wizard.
 4. Select **Install**, then select **Finish** when installation is complete.
 
-For details, see [Install Verve](../installation-guide/installation.md#install-verve).
+For details, see [Install Verve](../installation-guide/setup.md).
 
 ## 2. Verify the installation
 

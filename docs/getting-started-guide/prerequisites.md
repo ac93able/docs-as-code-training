@@ -9,7 +9,7 @@ Before you begin, make sure you have the access and materials required to instal
 - The Verve installation package.
 - A username and password for an active Verve account.
 
-The [Installation guide](../installation-guide/installation.md#prerequisites) contains the installation-specific prerequisites and the complete installation flow.
+The [installation prerequisites](../installation-guide/prerequisites.md) contain the installation-specific requirements. Follow the [installation overview](../installation-guide/overview.md) for the complete installation flow.
 
 ## Required before creating a project
 

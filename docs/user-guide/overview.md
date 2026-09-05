@@ -20,7 +20,7 @@ Verve helps users sign in, create projects, and collaborate with teammates. This
 ## Recommended workflow
 
 1. Review the [Getting Started](../getting-started-guide/getting-started.md) guide before your first session.
-2. Complete the [Installation](../installation-guide/installation.md) steps if Verve is not yet configured.
+2. Complete the [Installation](../installation-guide/overview.md) guide if Verve is not yet configured.
 3. Sign in to Verve using the [Sign in](sign-in.md) guide.
 4. Create a project and begin using [Project management](projects.md).
 5. Use [Collaboration](collaboration.md) to keep your team aligned.

@@ -6,7 +6,7 @@ You need administrator access, internet access, and the installation package. Se
 
 ## How do I install Verve?
 
-Download and open the installation package, follow the installation wizard, select **Install**, and select **Finish**. See the [Installation guide](../installation-guide/installation.md).
+Download and open the installation package, follow the installation wizard, select **Install**, and select **Finish**. See [Install Verve](../installation-guide/setup.md).
 
 ## How do I sign in?
 

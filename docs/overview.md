@@ -5,7 +5,7 @@ This documentation provides guidance for installing, configuring, using, and mai
 ## Get Started
 
 - [Getting Started](getting-started-guide/getting-started.md) — Begin using the project.
-- [Installation](installation-guide/installation.md) — Install and configure the required components.
+- [Installation](installation-guide/overview.md) — Review prerequisites, install Verve, and verify the installation.
 - [User Guide](user-guide/overview.md) — Learn how to use the project.
 - [Administration](administration-guide/administration.md) — Manage and maintain the project.
 
