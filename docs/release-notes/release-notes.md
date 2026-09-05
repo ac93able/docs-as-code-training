@@ -39,15 +39,19 @@ No release video is included in this version. The Verve guides provide workflow 
 
 - **Getting started:** New users can review the setup path and continue to installation. See the [Getting Started guide](../getting-started-guide/getting-started.md).
 - **Installation:** Administrators can check prerequisites, complete the installation wizard, and verify Verve. See the [Installation guide](../installation-guide/overview.md).
-- **Sign-in:** Users can sign in with a username and password. See [Sign in](../user-guide/overview.md#sign-in).
-- **Project management:** Users can create projects, update project settings, and manage project content. See [Create a project](../user-guide/overview.md#create-a-project) and [Manage a project](../user-guide/overview.md#manage-a-project).
-- **Administration:** Administrators can manage users, roles, and system settings. See the [Administration guide](../administration-guide/administration.md).
-- **Troubleshooting:** Users can find guidance for [sign-in failures](../troubleshooting-guide/sign-in.md) and [Verve startup problems](../troubleshooting-guide/startup.md).
+- **Sign-in:** Users can sign in with a username and password. See the [Sign in](../user-guide/sign-in.md) guide.
+- **Project management:** Users can create projects, update project settings, add members, and review project activity. See [Project Management](../user-guide/projects.md) and [Collaboration](../user-guide/collaboration.md).
+- **Administration:** Administrators can [manage users](../administration-guide/users.md), [manage roles](../administration-guide/roles.md), and [manage system settings](../administration-guide/system-settings.md).
+- **Troubleshooting:** Users can find guidance for [sign-in failures](../troubleshooting-guide/sign-in.md), [startup problems](../troubleshooting-guide/startup.md), [installation problems](../troubleshooting-guide/installation.md), and [project access problems](../troubleshooting-guide/project-access.md).
 
 ### Enhancements
 
 - Organized the documentation into dedicated getting-started, installation, user, administration, troubleshooting, and release-notes guides.
 - Added links between related guides to support the path from setup to daily use and administration.
+- Added dedicated FAQs for getting started and installation.
+- Added project collaboration guidance for sharing updates, assigning work, and reviewing feedback.
+- Added detailed administration workflows for users, roles, and system settings.
+- Added troubleshooting topics for installation and project access.
 - Added overview images to the Verve guides.
 
 ## Upgrade
