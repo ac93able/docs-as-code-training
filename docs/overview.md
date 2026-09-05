@@ -1,6 +1,17 @@
 # Documentation Overview
 
-This documentation provides guidance for installing, configuring, using, and maintaining the project.
+This documentation provides topic-based guidance for installing, configuring, using, and maintaining Verve. Each guide is written for a specific audience and task so that you can find the smallest amount of information needed to complete your work.
+
+## Choose a guide
+
+| Guide | Audience | Use it when |
+| --- | --- | --- |
+| [Getting Started](getting-started-guide/getting-started.md) | First-time users and managers | You need to understand Verve, complete the basic setup, and see the first-use path. |
+| [Installation](installation-guide/overview.md) | Installers and IT administrators | You need to prepare a computer, install Verve, and verify the installation. |
+| [User Guide](user-guide/overview.md) | Experienced and new users | You need to complete product tasks such as signing in, managing projects, or collaborating. |
+| [Administration](administration-guide/administration.md) | Verve administrators | You need to manage users, roles, or system-wide settings. |
+| [Troubleshooting](troubleshooting-guide/troubleshooting.md) | Users, administrators, and support teams | A documented workflow does not produce the expected result. |
+| [Release Notes](release-notes/release-notes.md) | Customers, managers, and support teams | You need the key changes, considerations, fixed issues, and known limitations for a release. |
 
 ## Get Started
 
@@ -13,5 +24,3 @@ This documentation provides guidance for installing, configuring, using, and mai
 
 - [Troubleshooting](troubleshooting-guide/troubleshooting.md) — Resolve sign-in, startup, installation, and project access problems.
 - [Release Notes](release-notes/release-notes.md) — Review updates and changes between releases.
-
-Additional topic-specific information is available in the `getting-started-guide`, `installation-guide`, `user-guide`, `administration-guide`, and `troubleshooting-guide` directories.

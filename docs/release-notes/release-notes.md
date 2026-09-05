@@ -1,6 +1,8 @@
 # Verve Release Notes
 
 **Version:** 1.0.0
+**Release date:** Not specified
+**Audience:** Customers, managers, administrators, and support teams
 
 ## Copyrights
 
@@ -11,7 +13,6 @@ This documentation is provided under the terms of the project license. See the [
   - [Copyrights](#copyrights)
   - [Contents](#contents)
   - [Welcome](#welcome)
-  - [Video](#video)
   - [What's New](#whats-new)
     - [New Features](#new-features)
     - [Enhancements](#enhancements)
@@ -25,13 +26,9 @@ This documentation is provided under the terms of the project license. See the [
 
 ## Welcome
 
-Welcome to version 1.0.0 of the Verve documentation. This initial release provides guidance for new users, administrators, and support teams. It covers installation, sign-in, project management, user and role administration, system settings, and troubleshooting.
+Welcome to version 1.0.0 of the Verve documentation. These release notes summarize the key documented capabilities and considerations for this release. They are not a replacement for the detailed installation, user, administration, or troubleshooting guides.
 
 Begin with the [Getting Started guide](../getting-started-guide/getting-started.md), then follow the [Installation guide](../installation-guide/overview.md).
-
-## Video
-
-No release video is included in this version. The Verve guides provide workflow images and step-by-step instructions for the documented tasks.
 
 ## What's New
 
@@ -67,17 +64,14 @@ For a new installation, review the [prerequisites](../installation-guide/prerequ
 - Users must sign in before creating or managing projects.
 - Administrators should review system settings because they control Verve-wide behavior.
 - If Verve does not start, restart it and contact an administrator if the problem continues.
+- Before distributing the installation package, confirm the supported operating system, network access, account provisioning, and organization-specific configuration with the product or IT owner.
 
 ## Issues Fixed
 
-- Added clear installation prerequisites and verification steps.
-- Added guidance for resolving incorrect credentials and inactive-account sign-in failures.
-- Added a restart recommendation for Verve when it does not start.
-- Added links between setup, user, administration, and troubleshooting workflows.
+No product defect identifiers or verified fixed-issue details were provided for this initial release. The documentation changes listed under [Enhancements](#enhancements) improve coverage but should not be interpreted as product defect fixes.
 
 ## Known Issues
 
-- No release video or annotated workflow recording is included.
 - Verve-specific configuration values and environment requirements are not documented.
 - Verve-specific role permissions are not listed.
 - Support contact details are not included; contact your organization’s administrator or support team.
@@ -88,6 +82,8 @@ For a new installation, review the [prerequisites](../installation-guide/prerequ
 - Advanced integrations and customization are outside the documented scope.
 - Identity-provider and directory integrations are not described.
 - No customer issue or ticket identifiers are available for this initial release.
+
+When a known issue is documented for a future release, include its issue identifier, affected version, impact, workaround, and planned resolution when available.
 
 ## Language Support
 

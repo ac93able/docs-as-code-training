@@ -1,6 +1,8 @@
 # User Guide
 
-Verve helps users sign in, create projects, and collaborate with teammates. This guide provides the tasks that most users complete after installation and setup.
+Verve helps users sign in, create projects, and collaborate with teammates. This guide is for new and experienced users who need to perform product tasks after installation and setup.
+
+Use the [Getting Started guide](../getting-started-guide/getting-started.md) for an introduction and first-use path. Use this guide for focused, repeatable tasks. Each topic presents a task outcome, the information needed before starting, and the steps needed to complete that task.
 
 ![Project dashboard overview](../images/user-guide-dashboard.svg)
 
@@ -10,6 +12,10 @@ Verve helps users sign in, create projects, and collaborate with teammates. This
 - Create and manage projects using [Project management](projects.md).
 - Share updates and assign work using [Collaboration](collaboration.md).
 - Review administrative settings in [Manage System Settings](../administration-guide/system-settings.md).
+
+## Product model
+
+Verve organizes work in projects. Projects contain work items, updates, members, and activity. A user's ability to view or change project information depends on the user's account, project membership, and assigned role. See [Manage Roles](../administration-guide/roles.md) when a task requires access you do not have.
 
 ## Guide contents
 

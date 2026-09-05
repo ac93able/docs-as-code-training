@@ -1,6 +1,6 @@
 # Troubleshooting
  
-Use this guide to resolve common problems with Verve. Start with the topic that best matches the problem you are experiencing.
+Use this guide to resolve common problems with Verve. It is intended for users, administrators, and support teams. Start with the topic that best matches the problem and preserve the exact message and version information while investigating.
 
 ![Troubleshooting checklist](../images/troubleshooting-checklist.svg)
  
@@ -13,7 +13,15 @@ Use this guide to resolve common problems with Verve. Start with the topic that 
 
 ## Before you contact support
 
-Record the action you attempted, the message Verve displayed, and the steps you already tried. Include your username and Verve version when you contact your administrator or support team, but do not share your password.
+Record the action you attempted, the expected result, the message Verve displayed, and the steps you already tried. Include the Verve version, operating system, time of the failure, and relevant project or account details when you contact your administrator or support team. Do not share your password or other secrets.
+
+## Diagnostic path
+
+1. Confirm the problem is reproducible and note the exact workflow that fails.
+2. Check whether the problem affects one user, one project, or all users.
+3. Confirm the user's account, role, project membership, and Verve version where relevant.
+4. Apply the matching troubleshooting topic and verify the result after each change.
+5. Escalate with the collected details when the problem continues or affects multiple users.
 
 ## Next steps
 
