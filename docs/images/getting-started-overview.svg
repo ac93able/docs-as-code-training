@@ -15,7 +15,7 @@
   <rect x="410" y="180" width="500" height="80" rx="18" fill="#edf3ff"/>
   <text x="445" y="232" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Active account</text>
   <rect x="410" y="300" width="500" height="80" rx="18" fill="#eafaf1"/>
-  <text x="445" y="352" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Access to the application</text>
+  <text x="445" y="352" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Access to Verve</text>
   <rect x="300" y="430" width="600" height="95" rx="22" fill="#dff5ec"/>
   <text x="375" y="490" font-size="34" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Next: installation and setup</text>
   <g transform="translate(905 180)">

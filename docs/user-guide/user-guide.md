@@ -6,7 +6,7 @@ This guide explains the basic tasks that users can perform.
  
 ## Sign in
  
-1. Open the application.
+1. Open Verve.
 2. Enter your username.
 3. Enter your password.
 4. Select **Sign in**.

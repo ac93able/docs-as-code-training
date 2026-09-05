@@ -1,18 +1,18 @@
 # Installation
  
-This guide explains how to install the product.
+This guide explains how to install Verve.
 
 ![Installation flow](../images/installation-flow.svg)
 
 ## Prerequisites
  
-Before installing the product, make sure you have:
+Before installing Verve, make sure you have:
  
 - Administrator access
 - Internet access
 - The installation package
  
-## Install the product
+## Install Verve
  
 1. Download the installation package.
 2. Open the downloaded file.
@@ -22,9 +22,9 @@ Before installing the product, make sure you have:
  
 ## Verify the installation
  
-Open the application and sign in using your account.
+Open Verve and sign in using your account.
 
-If the application does not start or you cannot sign in, see [Troubleshooting](../troubleshooting-guide/troubleshooting.md).
+If Verve does not start or you cannot sign in, see [Troubleshooting](../troubleshooting-guide/troubleshooting.md).
  
 ## Next steps
  

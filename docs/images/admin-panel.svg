@@ -21,6 +21,6 @@
   <rect x="735" y="265" width="120" height="16" rx="8" fill="#b7eec9"/>
   <rect x="390" y="340" width="560" height="170" rx="18" fill="#fff3d9"/>
   <text x="430" y="395" font-size="26" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">System settings</text>
-  <text x="430" y="440" font-size="22" fill="#45658d" font-family="Arial, sans-serif">Security, notifications, and application behavior</text>
+  <text x="430" y="440" font-size="22" fill="#45658d" font-family="Arial, sans-serif">Security, notifications, and Verve behavior</text>
   <rect x="430" y="455" width="210" height="26" rx="13" fill="#f6c453"/>
 </svg>

@@ -13,7 +13,7 @@
   <text x="198" y="407" font-size="20" fill="#1d3557" font-family="Arial, sans-serif">Settings</text>
   <rect x="430" y="150" width="600" height="150" rx="22" fill="#edf3ff"/>
   <text x="470" y="200" font-size="28" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Welcome</text>
-  <text x="470" y="245" font-size="22" fill="#45658d" font-family="Arial, sans-serif">Open the application and manage projects</text>
+  <text x="470" y="245" font-size="22" fill="#45658d" font-family="Arial, sans-serif">Open Verve and manage projects</text>
   <rect x="430" y="330" width="270" height="170" rx="22" fill="#eafaf1"/>
   <text x="470" y="385" font-size="24" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Create a project</text>
   <text x="470" y="420" font-size="18" fill="#45658d" font-family="Arial, sans-serif">Name</text>

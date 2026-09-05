@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
   <title id="title">Installation flow</title>
-  <desc id="desc">A workflow illustration showing how to download and install the application.</desc>
+  <desc id="desc">A workflow illustration showing how to download and install Verve.</desc>
   <rect width="1200" height="700" fill="#f7faff"/>
   <rect x="80" y="90" width="1040" height="520" rx="28" fill="#ffffff" stroke="#dfe9ff" stroke-width="2"/>
   <g>
@@ -23,5 +23,5 @@
     <text x="780" y="275" font-size="28" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Verify</text>
   </g>
   <rect x="250" y="430" width="700" height="110" rx="24" fill="#edf3ff"/>
-  <text x="330" y="495" font-size="30" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Sign in and confirm the application starts</text>
+  <text x="330" y="495" font-size="30" fill="#1d3557" font-family="Arial, sans-serif" font-weight="700">Sign in and confirm Verve starts</text>
 </svg>

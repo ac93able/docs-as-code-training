@@ -12,9 +12,9 @@ Check that:
 - Your password is correct.
 - Your account is active.
  
-## Application does not start
+## Verve does not start
  
-Try restarting the application.
+Try restarting Verve.
 If the problem continues, contact your administrator.
 
 ## Next steps

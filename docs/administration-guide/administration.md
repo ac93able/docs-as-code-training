@@ -10,11 +10,11 @@ Administrators can add, edit, deactivate, and delete users.
  
 ## Manage roles
  
-Use roles to control access to product features.
+Use roles to control access to Verve features.
  
 ## Manage system settings
  
-System settings control application-wide behavior.
+System settings control Verve-wide behavior.
 
 ## Next steps
 
