@@ -32,7 +32,7 @@ Open Verve and sign in using your account. If Verve does not start, see [Trouble
 3. Enter your password.
 4. Select **Sign in**.
 
-See the [Sign in](../user-guide/user-guide.md#sign-in) task for the same steps in the User Guide.
+See the [Sign in](../user-guide/sign-in-to-verve.md#sign-in-to-verve) task for the same steps in the User Guide.
 
 ## 4. Create your first project
 
@@ -41,4 +41,4 @@ See the [Sign in](../user-guide/user-guide.md#sign-in) task for the same steps i
 3. Enter the project name.
 4. Select **Create**.
 
-Continue with [Manage a project](../user-guide/user-guide.md#manage-a-project) to learn about project settings and content.
+Continue with [Manage project settings](../user-guide/project-management.md#manage-project-settings) to learn about project settings and content.

@@ -5,7 +5,7 @@ Use the installation wizard to install Verve on your computer.
 ## Contents
 
 - [To install Verve](#to-install-verve)
-- [Next steps](#next-steps)
+- [Verify the installation](verify-installation.md)
 
 ## To install Verve
 
