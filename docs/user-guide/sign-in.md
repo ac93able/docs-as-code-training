@@ -11,7 +11,7 @@ Use this guide to open Verve and access your account.
 3. Enter your password.
 4. Select **Sign in**.
 
-If you are unsure of your credentials, contact your administrator or review the [Troubleshooting](../troubleshooting-guide/troubleshooting.md) guide.
+If you are unsure of your credentials, contact your administrator or review [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
 
 ## After you sign in
 
@@ -31,7 +31,7 @@ If you cannot sign in, confirm the following:
 - Your account is active.
 - Your system has internet access if required by your environment.
 
-For additional help, see [Troubleshooting](../troubleshooting-guide/troubleshooting.md).
+For additional help, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
 
 ## Next steps
 

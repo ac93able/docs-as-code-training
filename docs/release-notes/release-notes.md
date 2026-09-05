@@ -42,7 +42,7 @@ No release video is included in this version. The Verve guides provide workflow 
 - **Sign-in:** Users can sign in with a username and password. See [Sign in](../user-guide/overview.md#sign-in).
 - **Project management:** Users can create projects, update project settings, and manage project content. See [Create a project](../user-guide/overview.md#create-a-project) and [Manage a project](../user-guide/overview.md#manage-a-project).
 - **Administration:** Administrators can manage users, roles, and system settings. See the [Administration guide](../administration-guide/administration.md).
-- **Troubleshooting:** Users can find guidance for sign-in failures and Verve startup problems. See the [Troubleshooting guide](../troubleshooting-guide/troubleshooting.md).
+- **Troubleshooting:** Users can find guidance for [sign-in failures](../troubleshooting-guide/sign-in.md) and [Verve startup problems](../troubleshooting-guide/startup.md).
 
 ### Enhancements
 

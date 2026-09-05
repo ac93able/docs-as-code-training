@@ -11,7 +11,7 @@ Confirm that Verve starts and that your account can sign in.
 
 Verve is ready to use when the application opens successfully after sign-in.
 
-If Verve does not start or you cannot sign in, see the [Troubleshooting guide](../troubleshooting-guide/troubleshooting.md).
+If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
 
 ## Next steps
 

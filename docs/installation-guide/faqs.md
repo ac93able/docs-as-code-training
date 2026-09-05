@@ -14,4 +14,4 @@ Open Verve and sign in with your account. See [Verify the installation](verifica
 
 ## What should I do if Verve does not start?
 
-Restart Verve. If the problem continues, contact your administrator and review the [Troubleshooting guide](../troubleshooting-guide/troubleshooting.md).
+Restart Verve. If the problem continues, contact your administrator and review [Troubleshoot startup problems](../troubleshooting-guide/startup.md).

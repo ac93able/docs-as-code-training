@@ -13,7 +13,7 @@ For details, see [Install Verve](../installation-guide/setup.md).
 
 ## 2. Verify the installation
 
-Open Verve and sign in using your account. If Verve does not start or you cannot sign in, see the [Troubleshooting guide](../troubleshooting-guide/troubleshooting.md).
+Open Verve and sign in using your account. If Verve does not start, see [Troubleshoot startup problems](../troubleshooting-guide/startup.md). If you cannot sign in, see [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
 
 ## 3. Sign in
 

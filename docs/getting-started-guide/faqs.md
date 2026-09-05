@@ -10,7 +10,7 @@ Download and open the installation package, follow the installation wizard, sele
 
 ## How do I sign in?
 
-Open Verve, enter your username and password, and select **Sign in**. If sign-in fails, confirm that your credentials are correct and that your account is active. See [Unable to sign in](../troubleshooting-guide/troubleshooting.md#unable-to-sign-in).
+Open Verve, enter your username and password, and select **Sign in**. If sign-in fails, confirm that your credentials are correct and that your account is active. See [Troubleshoot sign-in problems](../troubleshooting-guide/sign-in.md).
 
 ## How do I create a project?
 
@@ -18,7 +18,7 @@ After signing in, open the Projects page, select **Create Project**, enter a pro
 
 ## What should I do if Verve does not start?
 
-Try restarting Verve. If the problem continues, contact your administrator. See [Verve does not start](../troubleshooting-guide/troubleshooting.md#verve-does-not-start).
+Try restarting Verve. If the problem continues, contact your administrator. See [Troubleshoot startup problems](../troubleshooting-guide/startup.md).
 
 ## Where can administrators manage users and roles?
 

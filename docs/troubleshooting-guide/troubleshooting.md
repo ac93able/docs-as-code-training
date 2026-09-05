@@ -1,21 +1,19 @@
 # Troubleshooting
  
-Use this guide to resolve common problems.
+Use this guide to resolve common problems with Verve. Start with the topic that best matches the problem you are experiencing.
 
 ![Troubleshooting checklist](../images/troubleshooting-checklist.svg)
  
-## Unable to sign in
- 
-Check that:
- 
-- Your username is correct.
-- Your password is correct.
-- Your account is active.
- 
-## Verve does not start
- 
-Try restarting Verve.
-If the problem continues, contact your administrator.
+## Troubleshooting topics
+
+- [Unable to sign in](sign-in.md) — Resolve credential, account, and access problems.
+- [Verve does not start](startup.md) — Resolve startup and application launch problems.
+- [Installation problems](installation.md) — Resolve problems installing or verifying Verve.
+- [Project access problems](project-access.md) — Resolve project visibility and permission problems.
+
+## Before you contact support
+
+Record the action you attempted, the message Verve displayed, and the steps you already tried. Include your username and Verve version when you contact your administrator or support team, but do not share your password.
 
 ## Next steps
 
