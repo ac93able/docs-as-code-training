@@ -1,42 +1,43 @@
-# Verve
+# Website
 
-Welcome to the documentation for Verve. This repository contains comprehensive guides and resources for users, administrators, and support teams.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Documentation Overview
+## Installation
 
-Our documentation is organized into the following guides:
+```bash
+npm install
+```
 
-### Getting Started
-[Getting Started](docs/getting-started-guide/getting-started-guide.md) - Prepare for installation, complete initial setup, and review the FAQs.
+**Note**: feel free to use the package manager of your choice.
 
-### Installation
-[Installation](docs/installation-guide/installation-overview.md) - Review prerequisites, install Verve, verify the installation, and review FAQs.
+## Local Development
 
-### User Guide
-[User Guide](docs/user-guide/user-guide.md) - Sign in, manage projects, and collaborate with teammates.
+```bash
+npm run start
+```
 
-### Administration
-[Administration](docs/administration-guide/administration-guide.md) - Manage users, roles, and system settings.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Troubleshooting
-[Troubleshooting](docs/troubleshooting-guide/troubleshooting-guide.md) - Resolve sign-in, startup, installation, and project access problems.
+## Build
 
-### Release Notes
-[Release Notes](docs/release-notes/verve-release-notes.md) - Review the features, enhancements, known issues, and limitations documented for each release.
+```bash
+npm run build
+```
 
-## How to Use This Documentation
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-1. **New Users**: Start with the [Getting Started](docs/getting-started-guide/getting-started-guide.md) guide to understand what you need before using Verve.
-2. **Installing**: Follow the [Installation](docs/installation-guide/installation-overview.md) guide for prerequisites, setup, and verification instructions.
-3. **Daily Tasks**: Refer to the [User Guide](docs/user-guide/user-guide.md) for information on how to use Verve.
-4. **System Administration**: Administrators should review the [Administration](docs/administration-guide/administration-guide.md) guide.
-5. **Release Updates**: Review the [Release Notes](docs/release-notes/verve-release-notes.md) for new features, enhancements, known issues, and limitations.
-6. **Issues**: Check the [Troubleshooting](docs/troubleshooting-guide/troubleshooting-guide.md) guide if you encounter problems.
+## Deployment
 
-## License
+Using SSH:
 
-This project is licensed under the LICENSE file. See [LICENSE](LICENSE) for more information.
+```bash
+USE_SSH=true npm run deploy
+```
 
-## Need Help?
+Not using SSH:
 
-If you cannot find an answer in the documentation, please contact your administrator or support team for additional assistance.
+```bash
+GIT_USER=<Your GitHub username> npm run deploy
+```
+
+If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
