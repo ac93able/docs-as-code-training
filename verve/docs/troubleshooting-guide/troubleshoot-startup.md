@@ -4,18 +4,6 @@ sidebar_position: 3
 
 # Troubleshoot startup problems
 
-## Contents
-
-- [Troubleshoot startup problems](#troubleshoot-startup-problems)
-  - [Contents](#contents)
-  - [Before you get started](#before-you-get-started)
-  - [Restart Verve](#restart-verve)
-  - [Restart the device](#restart-the-device)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-    - [What should I do if Verve opens and then closes?](#what-should-i-do-if-verve-opens-and-then-closes)
-    - [What should I do if Verve shows a blank screen?](#what-should-i-do-if-verve-shows-a-blank-screen)
-  - [Best Practices](#best-practices)
-
 Use this guide when Verve does not open or closes before you can sign in.
 
 ## Before you get started

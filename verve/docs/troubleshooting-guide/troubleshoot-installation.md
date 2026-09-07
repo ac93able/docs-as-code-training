@@ -4,18 +4,6 @@ sidebar_position: 2
 
 # Troubleshoot installation problems
 
-## Contents
-
-- [Troubleshoot installation problems](#troubleshoot-installation-problems)
-  - [Contents](#contents)
-  - [Before you get started](#before-you-get-started)
-  - [Retry the installation](#retry-the-installation)
-  - [Verify the installation](#verify-the-installation)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-    - [What should I do if the installation wizard stops?](#what-should-i-do-if-the-installation-wizard-stops)
-    - [How do I know whether the installation succeeded?](#how-do-i-know-whether-the-installation-succeeded)
-  - [Best Practices](#best-practices)
-
 Use this guide when Verve does not install successfully or the installation cannot be verified.
 
 ## Before you get started

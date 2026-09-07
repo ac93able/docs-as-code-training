@@ -4,18 +4,6 @@ sidebar_position: 5
 
 # Troubleshoot project access problems
 
-## Contents
-
-- [Troubleshoot project access problems](#troubleshoot-project-access-problems)
-  - [Contents](#contents)
-  - [Before you get started](#before-you-get-started)
-  - [Check project access](#check-project-access)
-  - [Resolve a permission problem](#resolve-a-permission-problem)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-    - [Why can I sign in but not see a project?](#why-can-i-sign-in-but-not-see-a-project)
-    - [Who can change project access?](#who-can-change-project-access)
-  - [Best Practices](#best-practices)
-
 Use this guide when you cannot see a project, open a project, or complete a project task in Verve.
 
 ## Before you get started

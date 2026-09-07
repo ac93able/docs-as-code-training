@@ -4,24 +4,6 @@ sidebar_position: 3
 
 # Manage Roles
 
-## Contents
-
-- [Manage Roles](#manage-roles)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [Role administration overview](#role-administration-overview)
-    - [Review available roles](#review-available-roles)
-    - [Assign a role](#assign-a-role)
-    - [Change a user's role](#change-a-users-role)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-    - [Which role should I assign?](#which-role-should-i-assign)
-    - [When should I review a user's role?](#when-should-i-review-a-users-role)
-  - [Troubleshooting](#troubleshooting)
-    - [The user cannot access a project](#the-user-cannot-access-a-project)
-    - [A role change does not appear](#a-role-change-does-not-appear)
-  - [Best Practices](#best-practices)
-
 ## Introduction
 
 Use roles in Verve to control access to features and project information. This quick start guide explains how to review roles, assign the appropriate role to a user, and update access when responsibilities change.

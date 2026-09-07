@@ -4,25 +4,6 @@ sidebar_position: 2
 
 # Manage Users
 
-## Contents
-
-- [Manage Users](#manage-users)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [User administration overview](#user-administration-overview)
-    - [Add a user](#add-a-user)
-    - [Edit a user](#edit-a-user)
-    - [Deactivate a user](#deactivate-a-user)
-    - [Delete a user](#delete-a-user)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-    - [Should I deactivate or delete a user?](#should-i-deactivate-or-delete-a-user)
-    - [Can a deactivated user sign in?](#can-a-deactivated-user-sign-in)
-  - [Troubleshooting](#troubleshooting)
-    - [The user cannot sign in](#the-user-cannot-sign-in)
-    - [I cannot update a user](#i-cannot-update-a-user)
-  - [Best Practices](#best-practices)
-
 ## Introduction
 
 Use Verve administration tools to manage the people who can access your organization. This quick start guide explains how to add users, update account details, deactivate accounts, and remove users when necessary.

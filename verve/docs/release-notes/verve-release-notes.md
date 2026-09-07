@@ -4,14 +4,6 @@
 **Release date:** 2026-09-06  
 **Audience:** Customers, managers, administrators, and support teams
 
-## Contents
-
-- [Welcome](#welcome)
-- [What's New](#whats-new)
-- [Considerations](#considerations)
-- [Limitations](#limitations)
-- [Acknowledgements](#acknowledgements)
-
 ## Welcome
 
 Welcome to Verve version 1.0.0. These release notes summarize the key product capabilities and considerations for this release.

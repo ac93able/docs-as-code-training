@@ -4,15 +4,6 @@ sidebar_position: 4
 
 # Manage System Settings
 
-## Contents
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [System settings overview](#system-settings-overview)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Troubleshooting](#troubleshooting)
-- [Best Practices](#best-practices)
-
 ## Introduction
 
 System settings control behavior across Verve. This quick start guide explains how to review and update Verve-wide settings while keeping changes predictable for users and projects.

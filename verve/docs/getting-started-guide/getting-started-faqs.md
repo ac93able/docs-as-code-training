@@ -4,17 +4,6 @@ sidebar_position: 5
 
 # FAQs
 
-## Contents
-
-- [FAQs](#faqs)
-  - [Contents](#contents)
-  - [What do I need before installing Verve?](#what-do-i-need-before-installing-verve)
-  - [How do I install Verve?](#how-do-i-install-verve)
-  - [How do I sign in?](#how-do-i-sign-in)
-  - [How do I create a project?](#how-do-i-create-a-project)
-  - [What should I do if Verve does not start?](#what-should-i-do-if-verve-does-not-start)
-  - [Where can administrators manage users and roles?](#where-can-administrators-manage-users-and-roles)
-
 ## What do I need before installing Verve?
 
 You need administrator access, internet access, and the installation package.

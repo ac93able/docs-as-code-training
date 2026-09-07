@@ -4,18 +4,6 @@ sidebar_position: 4
 
 # Troubleshoot sign-in problems
 
-## Contents
-
-- [Troubleshoot sign-in problems](#troubleshoot-sign-in-problems)
-  - [Contents](#contents)
-  - [Before you get started](#before-you-get-started)
-  - [Check your credentials](#check-your-credentials)
-  - [Resolve an account problem](#resolve-an-account-problem)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-    - [What should I do if I forgot my password?](#what-should-i-do-if-i-forgot-my-password)
-    - [Why can another user sign in while I cannot?](#why-can-another-user-sign-in-while-i-cannot)
-  - [Best Practices](#best-practices)
-
 Use this guide when Verve does not accept your credentials or does not let you access your account.
 
 ## Before you get started
