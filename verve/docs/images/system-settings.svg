@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">System settings workflow</title>
+  <desc id="desc">An administration settings panel showing review, update, and verification stages.</desc>
+  <rect width="1200" height="700" fill="#f5f1ea"/>
+  <text x="90" y="100" font-size="42" fill="#3b3f45" font-family="Arial, sans-serif" font-weight="700">System settings</text>
+  <text x="90" y="140" font-size="20" fill="#6c7178" font-family="Arial, sans-serif">Review the current value, update one setting, then verify the result.</text>
+  <rect x="90" y="205" width="300" height="300" rx="18" fill="#ffffff" stroke="#d7cec0" stroke-width="3"/>
+  <circle cx="160" cy="275" r="28" fill="#e4b96c"/>
+  <text x="145" y="285" font-size="28" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">1</text>
+  <text x="120" y="350" font-size="25" fill="#4d4030" font-family="Arial, sans-serif" font-weight="700">Review</text>
+  <text x="120" y="390" font-size="19" fill="#6c6255" font-family="Arial, sans-serif">Check the current</text>
+  <text x="120" y="420" font-size="19" fill="#6c6255" font-family="Arial, sans-serif">configuration first.</text>
+  <path d="M420 355h90" stroke="#8b7655" stroke-width="8" stroke-linecap="round"/>
+  <path d="m495 325 35 30-35 30" fill="none" stroke="#8b7655" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="540" y="205" width="300" height="300" rx="18" fill="#ffffff" stroke="#c9dcd5" stroke-width="3"/>
+  <circle cx="610" cy="275" r="28" fill="#5c9b88"/>
+  <text x="595" y="285" font-size="28" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">2</text>
+  <text x="570" y="350" font-size="25" fill="#2e6658" font-family="Arial, sans-serif" font-weight="700">Update</text>
+  <text x="570" y="390" font-size="19" fill="#55776e" font-family="Arial, sans-serif">Change one related</text>
+  <text x="570" y="420" font-size="19" fill="#55776e" font-family="Arial, sans-serif">setting and save.</text>
+  <path d="M870 355h90" stroke="#8b7655" stroke-width="8" stroke-linecap="round"/>
+  <path d="m945 325 35 30-35 30" fill="none" stroke="#8b7655" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="990" y="205" width="120" height="300" rx="18" fill="#ffffff" stroke="#c9d0df" stroke-width="3"/>
+  <circle cx="1050" cy="275" r="28" fill="#5d789d"/>
+  <text x="1035" y="285" font-size="28" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">3</text>
+  <text x="1018" y="350" font-size="22" fill="#3b5574" font-family="Arial, sans-serif" font-weight="700">Verify</text>
+  <text x="1010" y="390" font-size="17" fill="#60738c" font-family="Arial, sans-serif">Check the</text>
+  <text x="1010" y="418" font-size="17" fill="#60738c" font-family="Arial, sans-serif">affected</text>
+  <text x="1010" y="446" font-size="17" fill="#60738c" font-family="Arial, sans-serif">workflow.</text>
+</svg>
