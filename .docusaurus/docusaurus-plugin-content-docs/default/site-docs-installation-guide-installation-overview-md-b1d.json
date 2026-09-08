@@ -1,0 +1,27 @@
+{
+  "id": "installation-guide/installation-overview",
+  "title": "Installation Overview",
+  "description": "Verve is a project workspace for organizing work and collaborating with teammates. This installation guide is for installers and IT administrators. It explains how to prepare for installation, install Verve, verify that it works, and hand the installation over to the people who will use it.",
+  "source": "@site/docs/installation-guide/installation-overview.md",
+  "sourceDirName": "installation-guide",
+  "slug": "/installation-guide/installation-overview",
+  "permalink": "/docs-as-code-training/docs/installation-guide/installation-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/installation-guide/installation-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/docs-as-code-training/docs/getting-started-guide/getting-started-faqs"
+  },
+  "next": {
+    "title": "Install Verve",
+    "permalink": "/docs-as-code-training/docs/installation-guide/install-verve"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "installation-guide/installation-faqs",
+  "title": "Installation FAQs",
+  "description": "What do I need before installing Verve?",
+  "source": "@site/docs/installation-guide/installation-faqs.md",
+  "sourceDirName": "installation-guide",
+  "slug": "/installation-guide/installation-faqs",
+  "permalink": "/docs-as-code-training/docs/installation-guide/installation-faqs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/installation-guide/installation-faqs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Verify the Installation",
+    "permalink": "/docs-as-code-training/docs/installation-guide/verify-installation"
+  },
+  "next": {
+    "title": "User Guide",
+    "permalink": "/docs-as-code-training/docs/user-guide/"
+  }
+}

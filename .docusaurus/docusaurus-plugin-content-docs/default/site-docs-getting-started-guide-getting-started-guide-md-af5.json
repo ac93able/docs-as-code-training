@@ -1,0 +1,27 @@
+{
+  "id": "getting-started-guide/getting-started-guide",
+  "title": "Getting Started",
+  "description": "Welcome to the getting-started guide for Verve.",
+  "source": "@site/docs/getting-started-guide/getting-started-guide.md",
+  "sourceDirName": "getting-started-guide",
+  "slug": "/getting-started-guide/",
+  "permalink": "/docs-as-code-training/docs/getting-started-guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started-guide/getting-started-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Release Notes",
+    "permalink": "/docs-as-code-training/docs/release-notes/verve-release-notes"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs-as-code-training/docs/getting-started-guide/getting-started-overview"
+  }
+}

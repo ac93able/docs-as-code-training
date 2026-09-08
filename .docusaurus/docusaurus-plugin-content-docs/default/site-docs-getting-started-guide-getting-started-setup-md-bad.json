@@ -1,0 +1,27 @@
+{
+  "id": "getting-started-guide/getting-started-setup",
+  "title": "Getting Started Setup",
+  "description": "Complete the following activities before using Verve for daily work.",
+  "source": "@site/docs/getting-started-guide/getting-started-setup.md",
+  "sourceDirName": "getting-started-guide",
+  "slug": "/getting-started-guide/getting-started-setup",
+  "permalink": "/docs-as-code-training/docs/getting-started-guide/getting-started-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started-guide/getting-started-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/docs-as-code-training/docs/getting-started-guide/getting-started-prerequisites"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/docs-as-code-training/docs/getting-started-guide/getting-started-faqs"
+  }
+}

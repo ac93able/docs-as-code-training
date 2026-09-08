@@ -1,0 +1,585 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "62": [
+      "62"
+    ],
+    "693": [
+      "693"
+    ],
+    "841": [
+      "106",
+      "115",
+      "14",
+      "182",
+      "841"
+    ],
+    "17896441": [
+      "14",
+      "841",
+      "106"
+    ],
+    "8810f773": [
+      "476"
+    ],
+    "9814e14b": [
+      "32"
+    ],
+    "9d9630bb": [
+      "817"
+    ],
+    "a39ce24e": [
+      "72"
+    ],
+    "a5233120": [
+      "443"
+    ],
+    "a60a9dcf": [
+      "496"
+    ],
+    "a6aa9e1f": [
+      "14",
+      "841",
+      "115"
+    ],
+    "a7456010": [
+      "56"
+    ],
+    "a7bd4aaa": [
+      "575"
+    ],
+    "a94703ab": [
+      "14",
+      "785"
+    ],
+    "aba21aa0": [
+      "747"
+    ],
+    "af504468": [
+      "868"
+    ],
+    "b1dca053": [
+      "365"
+    ],
+    "bad2550c": [
+      "748"
+    ],
+    "bf97b4ae": [
+      "384"
+    ],
+    "c3b4cb8d": [
+      "877"
+    ],
+    "c4f5d8e4": [
+      "14",
+      "823"
+    ],
+    "c641ba30": [
+      "460"
+    ],
+    "c9c5692a": [
+      "168"
+    ],
+    "cac37e83": [
+      "995"
+    ],
+    "d0a60c03": [
+      "299"
+    ],
+    "d61972e9": [
+      "675"
+    ],
+    "f4a3aca0": [
+      "703"
+    ],
+    "f8409a7e": [
+      "708"
+    ],
+    "styles": [
+      "106",
+      "115",
+      "182",
+      "783",
+      "785",
+      "823",
+      "841",
+      "889",
+      "14"
+    ],
+    "main": [
+      "14",
+      "783",
+      "889"
+    ],
+    "runtime~main": [
+      "14",
+      "889",
+      "783"
+    ],
+    "1f391b9e": [
+      "14",
+      "841",
+      "182"
+    ],
+    "20fb78a2": [
+      "246"
+    ],
+    "34b0715e": [
+      "739"
+    ],
+    "36994c47": [
+      "191"
+    ],
+    "3a79d5be": [
+      "522"
+    ],
+    "41e9c1b6": [
+      "169"
+    ],
+    "4c678320": [
+      "209"
+    ],
+    "5708faee": [
+      "255"
+    ],
+    "5ac7d5ba": [
+      "986"
+    ],
+    "5e95c892": [
+      "668"
+    ],
+    "62c280df": [
+      "259"
+    ],
+    "74b6743f": [
+      "813"
+    ],
+    "75d4ba65": [
+      "284"
+    ],
+    "814f3328": [
+      "833"
+    ],
+    "84c59ca4": [
+      "413"
+    ]
+  },
+  "assets": {
+    "14": {
+      "css": [
+        {
+          "file": "assets/css/styles.ac9f1a99.css",
+          "hash": "1e0b729cc965687a",
+          "publicPath": "/docs-as-code-training/assets/css/styles.ac9f1a99.css"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "assets/js/9814e14b.364c696e.js",
+          "hash": "40179ea9c47b7a6f",
+          "publicPath": "/docs-as-code-training/assets/js/9814e14b.364c696e.js"
+        }
+      ]
+    },
+    "56": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.c148b215.js",
+          "hash": "6326e446aaca079f",
+          "publicPath": "/docs-as-code-training/assets/js/a7456010.c148b215.js"
+        }
+      ]
+    },
+    "62": {
+      "js": [
+        {
+          "file": "assets/js/62.f220e048.js",
+          "hash": "7bb030757dfc1141",
+          "publicPath": "/docs-as-code-training/assets/js/62.f220e048.js"
+        }
+      ]
+    },
+    "72": {
+      "js": [
+        {
+          "file": "assets/js/a39ce24e.72fdad43.js",
+          "hash": "0ee00d80d7dcf0be",
+          "publicPath": "/docs-as-code-training/assets/js/a39ce24e.72fdad43.js"
+        }
+      ]
+    },
+    "106": {
+      "js": [
+        {
+          "file": "assets/js/17896441.3b7a7fe3.js",
+          "hash": "67cf589a05e62007",
+          "publicPath": "/docs-as-code-training/assets/js/17896441.3b7a7fe3.js"
+        }
+      ]
+    },
+    "115": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.4c09361a.js",
+          "hash": "2cea0d629032769d",
+          "publicPath": "/docs-as-code-training/assets/js/a6aa9e1f.4c09361a.js"
+        }
+      ]
+    },
+    "168": {
+      "js": [
+        {
+          "file": "assets/js/c9c5692a.e83b4e13.js",
+          "hash": "7e335631f9d45370",
+          "publicPath": "/docs-as-code-training/assets/js/c9c5692a.e83b4e13.js"
+        }
+      ]
+    },
+    "169": {
+      "js": [
+        {
+          "file": "assets/js/41e9c1b6.1206705c.js",
+          "hash": "c10fe4dad16f031e",
+          "publicPath": "/docs-as-code-training/assets/js/41e9c1b6.1206705c.js"
+        }
+      ]
+    },
+    "182": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.abfa2b18.js",
+          "hash": "10ba98497b88af8e",
+          "publicPath": "/docs-as-code-training/assets/js/1f391b9e.abfa2b18.js"
+        }
+      ]
+    },
+    "191": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.707056e7.js",
+          "hash": "59e43ad7794b0cf8",
+          "publicPath": "/docs-as-code-training/assets/js/36994c47.707056e7.js"
+        }
+      ]
+    },
+    "209": {
+      "js": [
+        {
+          "file": "assets/js/4c678320.bb0b7da0.js",
+          "hash": "6beb0bd363eccac4",
+          "publicPath": "/docs-as-code-training/assets/js/4c678320.bb0b7da0.js"
+        }
+      ]
+    },
+    "246": {
+      "js": [
+        {
+          "file": "assets/js/20fb78a2.1b06f665.js",
+          "hash": "5e802b7186e58e0c",
+          "publicPath": "/docs-as-code-training/assets/js/20fb78a2.1b06f665.js"
+        }
+      ]
+    },
+    "255": {
+      "js": [
+        {
+          "file": "assets/js/5708faee.f86f2e00.js",
+          "hash": "c8b66086fce44e8c",
+          "publicPath": "/docs-as-code-training/assets/js/5708faee.f86f2e00.js"
+        }
+      ]
+    },
+    "259": {
+      "js": [
+        {
+          "file": "assets/js/62c280df.8634f530.js",
+          "hash": "15251dc07664031d",
+          "publicPath": "/docs-as-code-training/assets/js/62c280df.8634f530.js"
+        }
+      ]
+    },
+    "284": {
+      "js": [
+        {
+          "file": "assets/js/75d4ba65.d5f01fd7.js",
+          "hash": "9021519ca87010a2",
+          "publicPath": "/docs-as-code-training/assets/js/75d4ba65.d5f01fd7.js"
+        }
+      ]
+    },
+    "299": {
+      "js": [
+        {
+          "file": "assets/js/d0a60c03.3cefb053.js",
+          "hash": "d69e2eeaa44bc8b9",
+          "publicPath": "/docs-as-code-training/assets/js/d0a60c03.3cefb053.js"
+        }
+      ]
+    },
+    "365": {
+      "js": [
+        {
+          "file": "assets/js/b1dca053.7b7d5bf7.js",
+          "hash": "b76dc838a19a07d6",
+          "publicPath": "/docs-as-code-training/assets/js/b1dca053.7b7d5bf7.js"
+        }
+      ]
+    },
+    "384": {
+      "js": [
+        {
+          "file": "assets/js/bf97b4ae.25de93ea.js",
+          "hash": "39d03662d03b7792",
+          "publicPath": "/docs-as-code-training/assets/js/bf97b4ae.25de93ea.js"
+        }
+      ]
+    },
+    "413": {
+      "js": [
+        {
+          "file": "assets/js/84c59ca4.827a11fc.js",
+          "hash": "b7772e2055735bee",
+          "publicPath": "/docs-as-code-training/assets/js/84c59ca4.827a11fc.js"
+        }
+      ]
+    },
+    "443": {
+      "js": [
+        {
+          "file": "assets/js/a5233120.eadd2d63.js",
+          "hash": "a359f035d736933a",
+          "publicPath": "/docs-as-code-training/assets/js/a5233120.eadd2d63.js"
+        }
+      ]
+    },
+    "460": {
+      "js": [
+        {
+          "file": "assets/js/c641ba30.997b5276.js",
+          "hash": "c516ea38499c1452",
+          "publicPath": "/docs-as-code-training/assets/js/c641ba30.997b5276.js"
+        }
+      ]
+    },
+    "476": {
+      "js": [
+        {
+          "file": "assets/js/8810f773.84d29eb3.js",
+          "hash": "602e6355723e64bf",
+          "publicPath": "/docs-as-code-training/assets/js/8810f773.84d29eb3.js"
+        }
+      ]
+    },
+    "496": {
+      "js": [
+        {
+          "file": "assets/js/a60a9dcf.ec09cefb.js",
+          "hash": "a8cd864f207063a3",
+          "publicPath": "/docs-as-code-training/assets/js/a60a9dcf.ec09cefb.js"
+        }
+      ]
+    },
+    "522": {
+      "js": [
+        {
+          "file": "assets/js/3a79d5be.9eb6fda2.js",
+          "hash": "1cfef430661028be",
+          "publicPath": "/docs-as-code-training/assets/js/3a79d5be.9eb6fda2.js"
+        }
+      ]
+    },
+    "575": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.a76ad5f3.js",
+          "hash": "705473c31690f6ba",
+          "publicPath": "/docs-as-code-training/assets/js/a7bd4aaa.a76ad5f3.js"
+        }
+      ]
+    },
+    "668": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.915eff43.js",
+          "hash": "901573aa3ffa3655",
+          "publicPath": "/docs-as-code-training/assets/js/5e95c892.915eff43.js"
+        }
+      ]
+    },
+    "675": {
+      "js": [
+        {
+          "file": "assets/js/d61972e9.fc4a7b44.js",
+          "hash": "bc1abbc22e5ee26a",
+          "publicPath": "/docs-as-code-training/assets/js/d61972e9.fc4a7b44.js"
+        }
+      ]
+    },
+    "693": {
+      "js": [
+        {
+          "file": "assets/js/693.2fb1cdb3.js",
+          "hash": "871734698c8ad81d",
+          "publicPath": "/docs-as-code-training/assets/js/693.2fb1cdb3.js"
+        }
+      ]
+    },
+    "703": {
+      "js": [
+        {
+          "file": "assets/js/f4a3aca0.7885d078.js",
+          "hash": "54b9df628cda420d",
+          "publicPath": "/docs-as-code-training/assets/js/f4a3aca0.7885d078.js"
+        }
+      ]
+    },
+    "708": {
+      "js": [
+        {
+          "file": "assets/js/f8409a7e.4fe16820.js",
+          "hash": "bbd68e297aca68ec",
+          "publicPath": "/docs-as-code-training/assets/js/f8409a7e.4fe16820.js"
+        }
+      ]
+    },
+    "739": {
+      "js": [
+        {
+          "file": "assets/js/34b0715e.9777c2ab.js",
+          "hash": "4816df0debcdb700",
+          "publicPath": "/docs-as-code-training/assets/js/34b0715e.9777c2ab.js"
+        }
+      ]
+    },
+    "747": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.f05c18b2.js",
+          "hash": "f08f5e4fb072902a",
+          "publicPath": "/docs-as-code-training/assets/js/aba21aa0.f05c18b2.js"
+        }
+      ]
+    },
+    "748": {
+      "js": [
+        {
+          "file": "assets/js/bad2550c.2de05d86.js",
+          "hash": "d79e9b5703fad548",
+          "publicPath": "/docs-as-code-training/assets/js/bad2550c.2de05d86.js"
+        }
+      ]
+    },
+    "783": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.99994ea1.js",
+          "hash": "7a583d294acd81c4",
+          "publicPath": "/docs-as-code-training/assets/js/runtime~main.99994ea1.js"
+        }
+      ]
+    },
+    "785": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.c814ee39.js",
+          "hash": "15e8edcda154fb69",
+          "publicPath": "/docs-as-code-training/assets/js/a94703ab.c814ee39.js"
+        }
+      ]
+    },
+    "813": {
+      "js": [
+        {
+          "file": "assets/js/74b6743f.89240a4e.js",
+          "hash": "edc3b514862c79a1",
+          "publicPath": "/docs-as-code-training/assets/js/74b6743f.89240a4e.js"
+        }
+      ]
+    },
+    "817": {
+      "js": [
+        {
+          "file": "assets/js/9d9630bb.dd3c28da.js",
+          "hash": "8841ad37ba7db2b1",
+          "publicPath": "/docs-as-code-training/assets/js/9d9630bb.dd3c28da.js"
+        }
+      ]
+    },
+    "823": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.d0d95412.js",
+          "hash": "f9f95f82627b26d7",
+          "publicPath": "/docs-as-code-training/assets/js/c4f5d8e4.d0d95412.js"
+        }
+      ]
+    },
+    "833": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.55d4b6fb.js",
+          "hash": "2ce59fd9e0896331",
+          "publicPath": "/docs-as-code-training/assets/js/814f3328.55d4b6fb.js"
+        }
+      ]
+    },
+    "841": {
+      "js": [
+        {
+          "file": "assets/js/841.f0575593.js",
+          "hash": "c89dc9ccd2de0f15",
+          "publicPath": "/docs-as-code-training/assets/js/841.f0575593.js"
+        }
+      ]
+    },
+    "868": {
+      "js": [
+        {
+          "file": "assets/js/af504468.7729d821.js",
+          "hash": "2a76e36b70ff5ca5",
+          "publicPath": "/docs-as-code-training/assets/js/af504468.7729d821.js"
+        }
+      ]
+    },
+    "877": {
+      "js": [
+        {
+          "file": "assets/js/c3b4cb8d.cf2dbcf2.js",
+          "hash": "bc43accea8034167",
+          "publicPath": "/docs-as-code-training/assets/js/c3b4cb8d.cf2dbcf2.js"
+        }
+      ]
+    },
+    "889": {
+      "js": [
+        {
+          "file": "assets/js/main.b0a8d3af.js",
+          "hash": "f70bf72cba7c0ab5",
+          "publicPath": "/docs-as-code-training/assets/js/main.b0a8d3af.js"
+        }
+      ]
+    },
+    "986": {
+      "js": [
+        {
+          "file": "assets/js/5ac7d5ba.07507b4a.js",
+          "hash": "5243161b9c4077e9",
+          "publicPath": "/docs-as-code-training/assets/js/5ac7d5ba.07507b4a.js"
+        }
+      ]
+    },
+    "995": {
+      "js": [
+        {
+          "file": "assets/js/cac37e83.3c3cb9d7.js",
+          "hash": "62c622cdf2a71195",
+          "publicPath": "/docs-as-code-training/assets/js/cac37e83.3c3cb9d7.js"
+        }
+      ]
+    }
+  }
+}

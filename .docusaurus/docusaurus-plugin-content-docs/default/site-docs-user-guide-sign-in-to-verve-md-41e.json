@@ -1,0 +1,27 @@
+{
+  "id": "user-guide/sign-in-to-verve",
+  "title": "Sign in",
+  "description": "Use this guide to open Verve and access your account.",
+  "source": "@site/docs/user-guide/sign-in-to-verve.md",
+  "sourceDirName": "user-guide",
+  "slug": "/user-guide/sign-in-to-verve",
+  "permalink": "/docs-as-code-training/docs/user-guide/sign-in-to-verve",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/user-guide/sign-in-to-verve.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User Guide",
+    "permalink": "/docs-as-code-training/docs/user-guide/"
+  },
+  "next": {
+    "title": "Project Management",
+    "permalink": "/docs-as-code-training/docs/user-guide/project-management"
+  }
+}

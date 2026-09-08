@@ -1,0 +1,27 @@
+{
+  "id": "administration-guide/manage-system-settings",
+  "title": "Manage System Settings",
+  "description": "Introduction",
+  "source": "@site/docs/administration-guide/manage-system-settings.md",
+  "sourceDirName": "administration-guide",
+  "slug": "/administration-guide/manage-system-settings",
+  "permalink": "/docs-as-code-training/docs/administration-guide/manage-system-settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/administration-guide/manage-system-settings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manage Roles",
+    "permalink": "/docs-as-code-training/docs/administration-guide/manage-roles"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs-as-code-training/docs/troubleshooting-guide/"
+  }
+}

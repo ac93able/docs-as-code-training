@@ -1,0 +1,27 @@
+{
+  "id": "user-guide/user-guide",
+  "title": "User Guide",
+  "description": "Verve helps users sign in, create projects, and collaborate with teammates. This guide is for new and experienced users who need to perform product tasks after installation and setup.",
+  "source": "@site/docs/user-guide/user-guide.md",
+  "sourceDirName": "user-guide",
+  "slug": "/user-guide/",
+  "permalink": "/docs-as-code-training/docs/user-guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/user-guide/user-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Installation FAQs",
+    "permalink": "/docs-as-code-training/docs/installation-guide/installation-faqs"
+  },
+  "next": {
+    "title": "Sign in",
+    "permalink": "/docs-as-code-training/docs/user-guide/sign-in-to-verve"
+  }
+}

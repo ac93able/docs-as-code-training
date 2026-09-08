@@ -1,0 +1,23 @@
+{
+  "id": "verve-documentation",
+  "title": "Verve Documentation",
+  "description": "Welcome to the Verve documentation hub. Use this page to find the right guide for your role, task, and stage of adoption.",
+  "source": "@site/docs/verve-documentation.md",
+  "sourceDirName": ".",
+  "slug": "/verve-documentation",
+  "permalink": "/docs-as-code-training/docs/verve-documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/verve-documentation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/docs-as-code-training/docs/release-notes/verve-release-notes"
+  }
+}
