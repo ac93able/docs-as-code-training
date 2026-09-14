@@ -34,6 +34,7 @@
   letter-spacing: .14em;
   margin-bottom: 1.4rem;
 }
+.eyebrow { font-size: 2rem; }
 .heroCopy h1 {
   color: #173f3b;
   font-size: clamp(3.2rem, 6vw, 5.7rem);
