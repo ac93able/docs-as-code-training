@@ -85,8 +85,9 @@ const config = {
       navbar: {
         title: 'Verve',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          href: '/docs-as-code-training/',
+          alt: 'Verve documentation logo',
+          src: 'img/verve-docs-logo.svg',
         },
         items: [
           {
