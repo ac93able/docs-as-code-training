@@ -23,11 +23,8 @@ function HomepageHeader() {
             and helping teams move projects forward together.
           </p>
           <div className={styles.buttons}>
-            <Link className="button button--primary button--lg" to="/docs/getting-started-guide">
-              Start with the basics
-            </Link>
-            <Link className={styles.secondaryButton} to="/docs/verve-documentation">
-              Browse all guides <span aria-hidden="true">→</span>
+            <Link className="button button--primary button--lg" to="/docs/verve-documentation">
+              Verve Documentation Home
             </Link>
           </div>
         </div>
