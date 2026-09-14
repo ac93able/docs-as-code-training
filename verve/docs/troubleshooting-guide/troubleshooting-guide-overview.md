@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Troubleshooting
+# Overview
  
 Use this guide to resolve common problems with Verve. It is intended for users, administrators, and support teams. Start with the topic that best matches the problem and preserve the exact message and version information while investigating.
 

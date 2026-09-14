@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# User Guide
+# Overview
 
 Verve helps users sign in, create projects, and collaborate with teammates. This guide is for new and experienced users who need to perform product tasks after installation and setup.
 

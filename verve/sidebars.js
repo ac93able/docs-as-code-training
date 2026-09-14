@@ -29,27 +29,27 @@ const sidebars = {
     {
       type: 'category',
       label: 'Getting Started',
-      items: ['getting-started-guide/getting-started-guide', 'getting-started-guide/getting-started-overview', 'getting-started-guide/getting-started-prerequisites', 'getting-started-guide/getting-started-setup', 'getting-started-guide/getting-started-faqs'],
+      items: ['getting-started-guide/getting-started-overview', 'getting-started-guide/getting-started-prerequisites', 'getting-started-guide/getting-started-setup', 'getting-started-guide/getting-started-faqs'],
     },
     {
       type: 'category',
       label: 'Installation',
-      items: ['installation-guide/installation-overview', 'installation-guide/install-verve', 'installation-guide/installation-prerequisites', 'installation-guide/verify-installation', 'installation-guide/installation-faqs'],
+      items: ['installation-guide/installation-overview', 'installation-guide/installation-prerequisites', 'installation-guide/install-verve', 'installation-guide/verify-installation', 'installation-guide/installation-faqs'],
     },
     {
       type: 'category',
       label: 'User Guide',
-      items: ['user-guide/user-guide', 'user-guide/sign-in-to-verve', 'user-guide/project-management', 'user-guide/collaboration-in-verve'],
+      items: ['user-guide/user-guide-overview', 'user-guide/sign-in-to-verve', 'user-guide/project-management', 'user-guide/collaboration-in-verve'],
     },
     {
       type: 'category',
       label: 'Administration',
-      items: ['administration-guide/administration-guide', 'administration-guide/manage-users', 'administration-guide/manage-roles', 'administration-guide/manage-system-settings'],
+      items: ['administration-guide/administration-guide-overview', 'administration-guide/manage-users', 'administration-guide/manage-roles', 'administration-guide/manage-system-settings'],
     },
     {
       type: 'category',
       label: 'Troubleshooting',
-      items: ['troubleshooting-guide/troubleshooting-guide', 'troubleshooting-guide/troubleshoot-installation', 'troubleshooting-guide/troubleshoot-startup', 'troubleshooting-guide/troubleshoot-sign-in', 'troubleshooting-guide/troubleshoot-project-access'],
+      items: ['troubleshooting-guide/troubleshooting-guide-overview', 'troubleshooting-guide/troubleshoot-installation', 'troubleshooting-guide/troubleshoot-startup', 'troubleshooting-guide/troubleshoot-sign-in', 'troubleshooting-guide/troubleshoot-project-access'],
     },
   ],
 };

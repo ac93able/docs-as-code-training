@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Installation Prerequisites
+# Prerequisites
 
 Before you install Verve, prepare the following items:
 

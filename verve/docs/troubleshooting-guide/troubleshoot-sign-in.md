@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Troubleshoot sign-in problems
+# Sign-in Problems
 
 Use this guide when Verve does not accept your credentials or does not let you access your account.
 

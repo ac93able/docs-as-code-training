@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Installation Overview
+# Overview
 
 Verve is a project workspace for organizing work and collaborating with teammates. This installation guide is for installers and IT administrators. It explains how to prepare for installation, install Verve, verify that it works, and hand the installation over to the people who will use it.
 

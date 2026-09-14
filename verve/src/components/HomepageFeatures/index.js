@@ -7,7 +7,7 @@ const guideList = [
     label: 'FIRST STEPS',
     title: 'Getting started',
     description: 'Learn the product model, check prerequisites, and complete your first setup.',
-    to: '/docs/getting-started-guide/',
+    to: '/docs/getting-started-guide/getting-started-overview/',
     tone: 'mint',
   },
   {
@@ -23,7 +23,7 @@ const guideList = [
     label: 'EVERYDAY WORK',
     title: 'User guide',
     description: 'Sign in, manage projects, and collaborate with the people you work with.',
-    to: '/docs/user-guide/',
+    to: '/docs/user-guide/user-guide-overview/',
     tone: 'blue',
   },
   {
@@ -31,7 +31,7 @@ const guideList = [
     label: 'KEEP THINGS RUNNING',
     title: 'Administration',
     description: 'Manage users, roles, permissions, and system-wide settings with confidence.',
-    to: '/docs/administration-guide/',
+    to: '/docs/administration-guide/administration-guide-overview/',
     tone: 'yellow',
   },
 ];
@@ -65,7 +65,7 @@ export default function HomepageFeatures() {
         </div>
         <div className={styles.supportBar}>
           <div><span className={styles.supportIcon}>?</span><span><strong>Something not working?</strong> Find the fastest path to an answer.</span></div>
-          <a href="/docs/troubleshooting-guide/troubleshooting-guide">Open troubleshooting <span aria-hidden="true">→</span></a>
+          <a href="/docs/troubleshooting-guide/troubleshooting-guide-overview">Open troubleshooting <span aria-hidden="true">→</span></a>
         </div>
       </div>
     </section>

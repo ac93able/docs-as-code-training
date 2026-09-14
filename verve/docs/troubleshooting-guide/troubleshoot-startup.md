@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Troubleshoot startup problems
+# Startup Problems
 
 Use this guide when Verve does not open or closes before you can sign in.
 

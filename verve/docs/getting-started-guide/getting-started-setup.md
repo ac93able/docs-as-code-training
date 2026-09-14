@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Getting Started Setup
+# Setup
 
 Complete the following activities before using Verve for daily work.
 

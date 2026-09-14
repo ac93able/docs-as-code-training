@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Installation FAQs
+# FAQs
 
 ## What do I need before installing Verve?
 

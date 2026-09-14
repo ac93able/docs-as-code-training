@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Troubleshoot project access problems
+# Project Access Problems
 
 Use this guide when you cannot see a project, open a project, or complete a project task in Verve.
 

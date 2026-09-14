@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Administration
+# Overview
  
 Administrators can manage users, roles, and system settings.
 

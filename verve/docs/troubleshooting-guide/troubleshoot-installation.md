@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Troubleshoot installation problems
+# Installation Problems
 
 Use this guide when Verve does not install successfully or the installation cannot be verified.
 
