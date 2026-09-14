@@ -1,11 +1,39 @@
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
+  background: #fffdf8;
+  padding: 6.5rem 0 4rem;
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.sectionIntro { align-items: end; display: flex; justify-content: space-between; margin-bottom: 2.5rem; }
+.sectionLabel { margin-bottom: .7rem; }
+.sectionIntro h2 { color: #173f3b; font-family: Georgia, serif; font-size: 3rem; font-weight: 500; letter-spacing: -.04em; margin: 0; }
+.sectionIntro > p { color: #5c716c; line-height: 1.6; margin: 0 0 .25rem; max-width: 20rem; }
+.guideGrid { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
+.guideCard { color: #173f3b; display: flex; flex-direction: column; min-height: 18rem; padding: 1.3rem; position: relative; transition: transform .2s ease, box-shadow .2s ease; }
+.guideCard:hover { box-shadow: .5rem .5rem 0 rgba(23, 63, 59, .15); color: #173f3b; transform: translateY(-.4rem); text-decoration: none; }
+.mint { background: #d7e4d8; }.coral { background: #f2c1ad; }.blue { background: #c5dce1; }.yellow { background: #f4d988; }
+.cardTopline { display: flex; font-size: .65rem; font-weight: 800; justify-content: space-between; letter-spacing: .1em; }
+.cardTopline span:last-child { font-family: Georgia, serif; font-size: 1.2rem; font-weight: 500; letter-spacing: 0; }
+.cardBody { margin-top: auto; padding-top: 3rem; }
+.cardBody h2 { font-family: Georgia, serif; font-size: 1.8rem; font-weight: 500; letter-spacing: -.03em; margin-bottom: .7rem; }
+.cardBody p { font-size: .9rem; line-height: 1.55; margin-bottom: 0; }
+.cardArrow { bottom: 1.2rem; font-size: 1.5rem; position: absolute; right: 1.2rem; }
+.supportBar { align-items: center; border-top: 1px solid #d7d6ca; display: flex; justify-content: space-between; margin-top: 4rem; padding-top: 1.5rem; }
+.supportBar > div { align-items: center; color: #5c716c; display: flex; gap: .8rem; }
+.supportBar strong { color: #173f3b; }
+.supportIcon { align-items: center; border: 1px solid #e06b4d; border-radius: 50%; color: #e06b4d; display: inline-flex; font-weight: 700; height: 1.8rem; justify-content: center; width: 1.8rem; }
+.supportBar a { color: #e06b4d; font-weight: 700; }
+.supportBar a span { font-size: 1.2rem; margin-left: .35rem; }
+
+@media screen and (max-width: 996px) {
+  .features { padding: 5rem 2rem 3rem; }
+  .guideGrid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media screen and (max-width: 560px) {
+  .features { padding-left: 1.25rem; padding-right: 1.25rem; }
+  .sectionIntro, .supportBar { align-items: flex-start; flex-direction: column; gap: 1.3rem; }
+  .sectionIntro h2 { font-size: 2.5rem; }
+  .guideGrid { grid-template-columns: 1fr; }
+  .guideCard { min-height: 14rem; }
 }

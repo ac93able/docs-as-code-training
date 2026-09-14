@@ -10,18 +10,44 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/verve-documentation">
-            Go to Verve Documentation
-          </Link>
+    <header className={styles.heroBanner}>
+      <div className={clsx('container', styles.heroGrid)}>
+        <div className={styles.heroCopy}>
+          <p className={styles.eyebrow}>VERVE DOCUMENTATION HUB</p>
+          <Heading as="h1">
+            Bring your work
+            <span> into focus.</span>
+          </Heading>
+          <p className={styles.heroSubtitle}>
+            The practical guide to installing Verve, setting up your workspace,
+            and helping teams move projects forward together.
+          </p>
+          <div className={styles.buttons}>
+            <Link className="button button--primary button--lg" to="/docs/getting-started-guide">
+              Start with the basics
+            </Link>
+            <Link className={styles.secondaryButton} to="/docs/verve-documentation">
+              Browse all guides <span aria-hidden="true">→</span>
+            </Link>
+          </div>
+        </div>
+        <div className={styles.heroPanel} aria-label="Verve documentation at a glance">
+          <div className={styles.panelTopline}>
+            <span className={styles.statusDot} />
+            <span>YOUR VERvE WORKSPACE</span>
+            <span className={styles.panelMenu}>•••</span>
+          </div>
+          <div className={styles.panelHeading}>
+            <span>Today’s focus</span>
+            <strong>Get your team moving</strong>
+          </div>
+          <div className={styles.progressTrack}><span /></div>
+          <div className={styles.panelMeta}><span>3 guides to go</span><span>Ready when you are</span></div>
+          <div className={styles.panelRows}>
+            <div><span className={styles.rowNumber}>01</span><span>Install and verify Verve</span><b>›</b></div>
+            <div><span className={styles.rowNumber}>02</span><span>Open your first project</span><b>›</b></div>
+            <div><span className={styles.rowNumber}>03</span><span>Invite your teammates</span><b>›</b></div>
+          </div>
         </div>
       </div>
     </header>
@@ -32,8 +58,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="Documentation hub"
+      description="Find the right Verve guide for setup, daily work, administration, and troubleshooting.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

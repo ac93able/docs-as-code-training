@@ -1,23 +1,78 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+  background: #f5f1e9;
+  color: #173f3b;
+  padding: 6.5rem 0 7rem;
   position: relative;
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.heroBanner::after {
+  background: #e8b44f;
+  border-radius: 50%;
+  content: '';
+  height: 28rem;
+  position: absolute;
+  right: -9rem;
+  top: -14rem;
+  width: 28rem;
 }
 
-.buttons {
-  display: flex;
+.heroGrid {
   align-items: center;
-  justify-content: center;
+  display: grid;
+  gap: 5rem;
+  grid-template-columns: minmax(0, 1fr) minmax(25rem, .8fr);
+  position: relative;
+  z-index: 1;
+}
+
+.heroCopy { max-width: 38rem; }
+.eyebrow, .sectionLabel {
+  color: #e06b4d;
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .14em;
+  margin-bottom: 1.4rem;
+}
+.heroCopy h1 {
+  color: #173f3b;
+  font-size: clamp(3.2rem, 6vw, 5.7rem);
+  letter-spacing: -.05em;
+  line-height: .94;
+  margin-bottom: 1.75rem;
+  max-width: 10ch;
+}
+.heroCopy h1 span { color: #e06b4d; display: block; }
+.heroSubtitle { color: #426461; font-size: 1.15rem; line-height: 1.65; max-width: 33rem; }
+.buttons { align-items: center; display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2.4rem; }
+.secondaryButton { color: #173f3b; font-weight: 700; }
+.secondaryButton span { color: #e06b4d; font-size: 1.3rem; margin-left: .35rem; }
+
+.heroPanel { background: #173f3b; box-shadow: 1.2rem 1.2rem 0 #d7e4d8; color: #f5f1e9; padding: 1.7rem; transform: rotate(2deg); }
+.panelTopline, .panelMeta { align-items: center; color: #9dbcb1; display: flex; font-size: .65rem; font-weight: 700; letter-spacing: .1em; }
+.panelTopline { border-bottom: 1px solid #39645d; gap: .6rem; padding-bottom: 1.2rem; }
+.panelMenu { margin-left: auto; letter-spacing: .15em; }
+.statusDot { background: #e8b44f; border-radius: 50%; height: .5rem; width: .5rem; }
+.panelHeading { display: grid; gap: .4rem; padding: 2rem 0 1.4rem; }
+.panelHeading span { color: #9dbcb1; font-size: .8rem; }
+.panelHeading strong { font-family: Georgia, serif; font-size: 1.9rem; font-weight: 500; }
+.progressTrack { background: #39645d; height: .4rem; }
+.progressTrack span { background: #e8b44f; display: block; height: 100%; width: 35%; }
+.panelMeta { justify-content: space-between; letter-spacing: 0; padding: .7rem 0 1.5rem; }
+.panelRows { border-top: 1px solid #39645d; }
+.panelRows div { align-items: center; border-bottom: 1px solid #39645d; display: grid; font-size: .85rem; gap: .8rem; grid-template-columns: 2rem 1fr 1rem; padding: 1rem 0; }
+.rowNumber { color: #e8b44f; font-size: .7rem; font-weight: 700; }
+.panelRows b { color: #9dbcb1; font-size: 1.2rem; font-weight: 400; }
+
+@media screen and (max-width: 996px) {
+  .heroBanner { padding: 4rem 2rem 5rem; }
+  .heroGrid { gap: 4rem; grid-template-columns: 1fr; }
+  .heroPanel { margin: 0 auto; max-width: 34rem; width: 100%; }
+}
+
+@media screen and (max-width: 560px) {
+  .heroBanner { padding-left: 1.25rem; padding-right: 1.25rem; }
+  .heroCopy h1 { font-size: 3.5rem; }
+  .buttons { align-items: flex-start; flex-direction: column; }
+  .heroPanel { transform: none; }
 }

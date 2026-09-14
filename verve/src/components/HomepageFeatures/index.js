@@ -1,51 +1,51 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
-const FeatureList = [
+const guideList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    number: '01',
+    label: 'FIRST STEPS',
+    title: 'Getting started',
+    description: 'Learn the product model, check prerequisites, and complete your first setup.',
+    to: '/docs/getting-started-guide/',
+    tone: 'mint',
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    number: '02',
+    label: 'SETUP & VERIFY',
+    title: 'Installation',
+    description: 'Prepare your environment, install Verve, and verify that everything is working.',
+    to: '/docs/installation-guide/installation-overview/',
+    tone: 'coral',
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    number: '03',
+    label: 'EVERYDAY WORK',
+    title: 'User guide',
+    description: 'Sign in, manage projects, and collaborate with the people you work with.',
+    to: '/docs/user-guide/',
+    tone: 'blue',
+  },
+  {
+    number: '04',
+    label: 'KEEP THINGS RUNNING',
+    title: 'Administration',
+    description: 'Manage users, roles, permissions, and system-wide settings with confidence.',
+    to: '/docs/administration-guide/',
+    tone: 'yellow',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function GuideCard({number, label, title, description, to, tone}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+    <Link className={`${styles.guideCard} ${styles[tone]}`} to={to}>
+      <div className={styles.cardTopline}><span>{label}</span><span>{number}</span></div>
+      <div className={styles.cardBody}>
+        <h2>{title}</h2>
         <p>{description}</p>
       </div>
-    </div>
+      <span className={styles.cardArrow} aria-hidden="true">↗</span>
+    </Link>
   );
 }
 
@@ -53,10 +53,19 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+        <div className={styles.sectionIntro}>
+          <div>
+            <p className={styles.sectionLabel}>FIND YOUR WAY AROUND</p>
+            <h2>Start where you are.</h2>
+          </div>
+          <p>Choose a guide by what you need to do next. Each path is built around a clear outcome.</p>
+        </div>
+        <div className={styles.guideGrid}>
+          {guideList.map((guide) => <GuideCard key={guide.number} {...guide} />)}
+        </div>
+        <div className={styles.supportBar}>
+          <div><span className={styles.supportIcon}>?</span><span><strong>Something not working?</strong> Find the fastest path to an answer.</span></div>
+          <a href="/docs/troubleshooting-guide/troubleshooting-guide">Open troubleshooting <span aria-hidden="true">→</span></a>
         </div>
       </div>
     </section>
