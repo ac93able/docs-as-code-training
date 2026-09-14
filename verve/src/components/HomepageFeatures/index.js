@@ -65,7 +65,7 @@ export default function HomepageFeatures() {
         </div>
         <div className={styles.supportBar}>
           <div><span className={styles.supportIcon}>?</span><span><strong>Something not working?</strong> Find the fastest path to an answer.</span></div>
-          <a href="/docs/troubleshooting-guide/troubleshooting-guide-overview">Open troubleshooting <span aria-hidden="true">→</span></a>
+          <Link to="/docs/troubleshooting-guide/troubleshooting-guide-overview/">Open troubleshooting <span aria-hidden="true">→</span></Link>
         </div>
       </div>
     </section>
