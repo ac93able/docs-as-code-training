@@ -1,28 +1,54 @@
+:root {
+  --feature-surface: #fffdf8;
+  --feature-heading: #173f3b;
+  --feature-text: #5c716c;
+  --feature-rule: #d7d6ca;
+  --feature-mint: #d7e4d8;
+  --feature-coral: #f2c1ad;
+  --feature-blue: #c5dce1;
+  --feature-yellow: #f4d988;
+  --feature-shadow: rgba(23, 63, 59, 0.15);
+  --feature-accent: #e06b4d;
+}
+
+:global([data-theme='dark']) {
+  --feature-surface: #111d1d;
+  --feature-heading: #edf8f1;
+  --feature-text: #b5cbc6;
+  --feature-rule: rgba(182, 208, 202, 0.2);
+  --feature-mint: #213c36;
+  --feature-coral: #4c2f2b;
+  --feature-blue: #1d3945;
+  --feature-yellow: #4d3d21;
+  --feature-shadow: rgba(0, 0, 0, 0.35);
+  --feature-accent: #ff9d7a;
+}
+
 .features {
-  background: #fffdf8;
+  background: var(--feature-surface);
   padding: 6.5rem 0 4rem;
   width: 100%;
 }
 
 .sectionIntro { align-items: end; display: flex; justify-content: space-between; margin-bottom: 2.5rem; }
 .sectionLabel { margin-bottom: .7rem; }
-.sectionIntro h2 { color: #173f3b; font-family: Georgia, serif; font-size: 3rem; font-weight: 500; letter-spacing: -.04em; margin: 0; }
-.sectionIntro > p { color: #5c716c; line-height: 1.6; margin: 0 0 .25rem; max-width: 20rem; }
+.sectionIntro h2 { color: var(--feature-heading); font-family: Georgia, serif; font-size: 3rem; font-weight: 500; letter-spacing: -.04em; margin: 0; }
+.sectionIntro > p { color: var(--feature-text); line-height: 1.6; margin: 0 0 .25rem; max-width: 20rem; }
 .guideGrid { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
-.guideCard { color: #173f3b; display: flex; flex-direction: column; min-height: 18rem; padding: 1.3rem; position: relative; transition: transform .2s ease, box-shadow .2s ease; }
-.guideCard:hover { box-shadow: .5rem .5rem 0 rgba(23, 63, 59, .15); color: #173f3b; transform: translateY(-.4rem); text-decoration: none; }
-.mint { background: #d7e4d8; }.coral { background: #f2c1ad; }.blue { background: #c5dce1; }.yellow { background: #f4d988; }
+.guideCard { color: var(--feature-heading); display: flex; flex-direction: column; min-height: 18rem; padding: 1.3rem; position: relative; transition: transform .2s ease, box-shadow .2s ease; }
+.guideCard:hover { box-shadow: .5rem .5rem 0 var(--feature-shadow); color: var(--feature-heading); transform: translateY(-.4rem); text-decoration: none; }
+.mint { background: var(--feature-mint); }.coral { background: var(--feature-coral); }.blue { background: var(--feature-blue); }.yellow { background: var(--feature-yellow); }
 .cardTopline { display: flex; font-size: .65rem; font-weight: 800; justify-content: space-between; letter-spacing: .1em; }
 .cardTopline span:last-child { font-family: Georgia, serif; font-size: 1.2rem; font-weight: 500; letter-spacing: 0; }
 .cardBody { margin-top: auto; padding-top: 3rem; }
 .cardBody h2 { font-family: Georgia, serif; font-size: 1.8rem; font-weight: 500; letter-spacing: -.03em; margin-bottom: .7rem; }
 .cardBody p { font-size: .9rem; line-height: 1.55; margin-bottom: 0; }
 .cardArrow { bottom: 1.2rem; font-size: 1.5rem; position: absolute; right: 1.2rem; }
-.supportBar { align-items: center; border-top: 1px solid #d7d6ca; display: flex; justify-content: space-between; margin-top: 4rem; padding-top: 1.5rem; }
-.supportBar > div { align-items: center; color: #5c716c; display: flex; gap: .8rem; }
-.supportBar strong { color: #173f3b; }
-.supportIcon { align-items: center; border: 1px solid #e06b4d; border-radius: 50%; color: #e06b4d; display: inline-flex; font-weight: 700; height: 1.8rem; justify-content: center; width: 1.8rem; }
-.supportBar a { color: #e06b4d; font-weight: 700; }
+.supportBar { align-items: center; border-top: 1px solid var(--feature-rule); display: flex; justify-content: space-between; margin-top: 4rem; padding-top: 1.5rem; }
+.supportBar > div { align-items: center; color: var(--feature-text); display: flex; gap: .8rem; }
+.supportBar strong { color: var(--feature-heading); }
+.supportIcon { align-items: center; border: 1px solid var(--feature-accent); border-radius: 50%; color: var(--feature-accent); display: inline-flex; font-weight: 700; height: 1.8rem; justify-content: center; width: 1.8rem; }
+.supportBar a { color: var(--feature-accent); font-weight: 700; }
 .supportBar a span { font-size: 1.2rem; margin-left: .35rem; }
 
 @media screen and (max-width: 996px) {
