@@ -44,5 +44,6 @@ time_of_failure: ""
 affected_user_project_or_account: ""
 ```
 
-> [!WARNING]
-> Do not include passwords, authentication codes, or other secrets in a support record.
+:::warning
+Do not include passwords, authentication codes, or other secrets in a support record.
+:::

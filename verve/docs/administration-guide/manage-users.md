@@ -68,8 +68,9 @@ The user is removed from Verve. Delete an account only when you no longer need i
 
 For role and project access after creating an account, see [Manage Roles](manage-roles.md).
 
-> [!WARNING]
-> Deactivate an account when access may need to be restored. Delete it only when the user record is no longer needed.
+:::warning
+Deactivate an account when access may need to be restored. Delete it only when the user record is no longer needed.
+:::
 
 ## Frequently Asked Questions
 

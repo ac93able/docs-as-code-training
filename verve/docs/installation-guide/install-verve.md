@@ -16,5 +16,6 @@ Use the installation wizard to install Verve on your computer.
 
 Verve is installed. Verify that it starts before you begin using the application.
 
-> [!TIP]
-> Keep the installation package and installed version available to your support team. This information helps them investigate later installation or startup problems.
+:::tip
+Keep the installation package and installed version available to your support team. This information helps them investigate later installation or startup problems.
+:::

@@ -15,8 +15,9 @@ Use this guide to open Verve and access your account.
 3. Enter your password.
 4. Select **Sign in**.
 
-> [!NOTE]
-> Your account must be active before you can sign in or create a project. Contact an administrator if you are unsure of your account status.
+:::note
+Your account must be active before you can sign in or create a project. Contact an administrator if you are unsure of your account status.
+:::
 
 If you are unsure of your credentials, contact your administrator.
 

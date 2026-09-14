@@ -13,8 +13,9 @@ Before you install Verve, prepare the following items:
 | Verve installation package | Contains the files needed to install Verve. | Confirm that the package is available locally. |
 | Active Verve account | Lets you verify the installation after setup. | Ask an administrator to confirm the account is active. |
 
-> [!IMPORTANT]
-> Do not begin the installation until you have both administrator access and an active Verve account. You need the account for the verification step.
+:::important
+Do not begin the installation until you have both administrator access and an active Verve account. You need the account for the verification step.
+:::
 
 If you do not have an account, contact your administrator before starting the installation.
 
