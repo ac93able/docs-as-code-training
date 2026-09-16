@@ -40,6 +40,15 @@ time_of_failure: ""
 affected_user_project_or_account: ""
 ```
 
+## Contact details
+
+Use the contact information below when you are ready to send your support request:
+
+- Email: support@verve.com
+- Phone: +1 (800) 555-0147
+- Support hours: Monday-Friday, 8:00 AM-6:00 PM
+- Include your problem summary and the details from the support record above in every message.
+
 :::warning
 Do not include passwords, authentication codes, or other secrets in a support request.
 :::
