@@ -23,6 +23,7 @@ Welcome to the Verve documentation hub. Use this page to find the right guide fo
 ### Need answers quickly?
 
 - [Troubleshooting](troubleshooting-guide/troubleshooting-guide-overview.md) — Resolve sign-in, startup, installation, and project access problems.
+- [Contact Verve Support](contact-verve-support.md) — Gather the details you need before contacting your administrator or support team.
 - [Release Notes](release-notes/verve-release-notes.md) — Review updates, fixes, and known limitations for each release.
 
 ## Documentation by task
@@ -60,4 +61,4 @@ Welcome to the Verve documentation hub. Use this page to find the right guide fo
 
 ## Need help?
 
-If you cannot find the information you need, begin with the most relevant guide above or contact your administrator or support team for additional assistance.
+If you cannot find the information you need, begin with the most relevant guide above. When a problem continues, use [Contact Verve Support](contact-verve-support.md) to record the exact message, steps attempted, version, operating system, and affected account or project before contacting your administrator or support team.

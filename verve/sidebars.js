@@ -51,6 +51,11 @@ const sidebars = {
       label: 'Troubleshooting',
       items: ['troubleshooting-guide/troubleshooting-guide-overview', 'troubleshooting-guide/troubleshoot-installation', 'troubleshooting-guide/troubleshoot-startup', 'troubleshooting-guide/troubleshoot-sign-in', 'troubleshooting-guide/troubleshoot-project-access'],
     },
+    {
+      type: 'doc',
+      label: 'Contact Verve Support',
+      id: 'contact-verve-support',
+    },
   ],
 };
 

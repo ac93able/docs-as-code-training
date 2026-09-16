@@ -34,6 +34,14 @@ const guideList = [
     to: '/docs/administration-guide/administration-guide-overview/',
     tone: 'yellow',
   },
+  {
+    number: '05',
+    label: 'WHEN THINGS GO WRONG',
+    title: 'Troubleshooting',
+    description: 'Resolve sign-in, startup, installation, and project access issues with guided steps.',
+    to: '/docs/troubleshooting-guide/troubleshooting-guide-overview/',
+    tone: 'blue',
+  },
 ];
 
 function GuideCard({number, label, title, description, to, tone}) {
@@ -64,8 +72,8 @@ export default function HomepageFeatures() {
           {guideList.map((guide) => <GuideCard key={guide.number} {...guide} />)}
         </div>
         <div className={styles.supportBar}>
-          <div><span className={styles.supportIcon}>?</span><span><strong>Something not working?</strong> Find the fastest path to an answer.</span></div>
-          <Link to="/docs/troubleshooting-guide/troubleshooting-guide-overview/">Open troubleshooting <span aria-hidden="true">→</span></Link>
+          <div><span className={styles.supportIcon}>?</span><span><strong>Need help with Verve?</strong> Gather the right details before you contact support.</span></div>
+          <Link to="/docs/contact-verve-support/">Contact support <span aria-hidden="true">→</span></Link>
         </div>
       </div>
     </section>
