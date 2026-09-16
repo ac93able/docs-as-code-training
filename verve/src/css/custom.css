@@ -32,6 +32,14 @@
   font-size: 1.5rem;
 }
 
+body:has([data-homepage]) .navbar__title {
+  user-select: none;
+}
+
+body:has([data-homepage]) .navbar__brand:hover {
+  color: var(--ifm-navbar-link-color);
+}
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;

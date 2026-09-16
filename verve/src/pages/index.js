@@ -10,7 +10,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={styles.heroBanner}>
+    <header className={styles.heroBanner} data-homepage>
       <div className={clsx('container', styles.heroGrid)}>
         <div className={styles.heroCopy}>
           <p className={styles.eyebrow}>VERVE DOCUMENTATION HUB</p>
@@ -55,7 +55,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Documentation hub"
+      title="Documentation Hub"
       description="Find the right Verve guide for setup, daily work, administration, and troubleshooting.">
       <HomepageHeader />
       <main>
